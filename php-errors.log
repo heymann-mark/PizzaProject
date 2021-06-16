@@ -1,0 +1,1490 @@
+[02-May-2015 16:16:35 America/New_York] =====Starting request: /pizza2/pizza/
+[02-May-2015 16:17:34 America/New_York] =====Starting request: /pizza2/pizza/
+[02-May-2015 16:22:33 America/New_York] =====Starting request: /pizza2/pizza/
+[02-May-2015 16:22:33 America/New_York] PHP Notice:  Use of undefined constant images - assumed 'images' in C:\xampp\htdocs\pizza2\view\header.php on line 14
+[02-May-2015 16:22:33 America/New_York] PHP Stack trace:
+[02-May-2015 16:22:33 America/New_York] PHP   1. {main}() C:\xampp\htdocs\pizza2\pizza\index.php:0
+[02-May-2015 16:22:33 America/New_York] PHP   2. include() C:\xampp\htdocs\pizza2\pizza\index.php:33
+[02-May-2015 16:22:33 America/New_York] PHP   3. include() C:\xampp\htdocs\pizza2\pizza\student_welcome.php:1
+[02-May-2015 16:22:33 America/New_York] PHP Notice:  Use of undefined constant pizzapie - assumed 'pizzapie' in C:\xampp\htdocs\pizza2\view\header.php on line 14
+[02-May-2015 16:22:33 America/New_York] PHP Stack trace:
+[02-May-2015 16:22:33 America/New_York] PHP   1. {main}() C:\xampp\htdocs\pizza2\pizza\index.php:0
+[02-May-2015 16:22:33 America/New_York] PHP   2. include() C:\xampp\htdocs\pizza2\pizza\index.php:33
+[02-May-2015 16:22:33 America/New_York] PHP   3. include() C:\xampp\htdocs\pizza2\pizza\student_welcome.php:1
+[02-May-2015 16:22:33 America/New_York] PHP Warning:  Division by zero in C:\xampp\htdocs\pizza2\view\header.php on line 14
+[02-May-2015 16:22:33 America/New_York] PHP Stack trace:
+[02-May-2015 16:22:33 America/New_York] PHP   1. {main}() C:\xampp\htdocs\pizza2\pizza\index.php:0
+[02-May-2015 16:22:33 America/New_York] PHP   2. include() C:\xampp\htdocs\pizza2\pizza\index.php:33
+[02-May-2015 16:22:33 America/New_York] PHP   3. include() C:\xampp\htdocs\pizza2\pizza\student_welcome.php:1
+[02-May-2015 16:22:33 America/New_York] PHP Notice:  Use of undefined constant jpg - assumed 'jpg' in C:\xampp\htdocs\pizza2\view\header.php on line 14
+[02-May-2015 16:22:33 America/New_York] PHP Stack trace:
+[02-May-2015 16:22:33 America/New_York] PHP   1. {main}() C:\xampp\htdocs\pizza2\pizza\index.php:0
+[02-May-2015 16:22:33 America/New_York] PHP   2. include() C:\xampp\htdocs\pizza2\pizza\index.php:33
+[02-May-2015 16:22:33 America/New_York] PHP   3. include() C:\xampp\htdocs\pizza2\pizza\student_welcome.php:1
+[02-May-2015 16:22:55 America/New_York] =====Starting request: /pizza2/pizza/
+[02-May-2015 16:23:44 America/New_York] =====Starting request: /pizza2/pizza/
+[02-May-2015 16:25:59 America/New_York] =====Starting request: /pizza2/pizza/
+[02-May-2015 16:28:26 America/New_York] =====Starting request: /pizza2/pizza/
+[02-May-2015 16:29:06 America/New_York] =====Starting request: /pizza2/pizza/?action=order_pizza&room=1
+[02-May-2015 16:29:11 America/New_York] =====Starting request: /pizza2/pizza/index.php?action=add_order&pizza_size=1&pizza_topping%5B%5D=1&room=1
+[02-May-2015 16:29:11 America/New_York] =====Starting request: /pizza2/pizza/?room=1
+[02-May-2015 16:29:52 America/New_York] =====Starting request: /pizza2/admin/
+[02-May-2015 16:31:31 America/New_York] =====Starting request: /pizza2/admin/topping/
+[02-May-2015 16:31:34 America/New_York] =====Starting request: /pizza2/admin/topping/?action=show_add_form
+[02-May-2015 16:31:40 America/New_York] =====Starting request: /pizza2/admin/topping/index.php
+[02-May-2015 16:31:40 America/New_York] =====Starting request: /pizza2/admin/topping/
+[02-May-2015 16:31:50 America/New_York] =====Starting request: /pizza2/admin/
+[02-May-2015 16:31:51 America/New_York] =====Starting request: /pizza2/admin/size/
+[02-May-2015 16:31:53 America/New_York] =====Starting request: /pizza2/admin/size/?action=show_add_form
+[02-May-2015 16:31:57 America/New_York] =====Starting request: /pizza2/admin/size/index.php
+[02-May-2015 16:31:57 America/New_York] =====Starting request: /pizza2/admin/size/
+[02-May-2015 16:32:00 America/New_York] =====Starting request: /pizza2/admin/
+[02-May-2015 16:32:01 America/New_York] =====Starting request: /pizza2/admin/day/
+[02-May-2015 16:32:13 America/New_York] =====Starting request: /pizza2/admin/
+[02-May-2015 16:32:15 America/New_York] =====Starting request: /pizza2/admin/order/
+[02-May-2015 16:32:21 America/New_York] =====Starting request: /pizza2/admin/order/index.php
+[02-May-2015 16:32:21 America/New_York] =====Starting request: /pizza2/admin/order/
+[02-May-2015 16:32:40 America/New_York] =====Starting request: /pizza2/admin/order/index.php
+[02-May-2015 16:32:40 America/New_York] PHP Fatal error:  Call to undefined function initial_db() in C:\xampp\htdocs\pizza2\admin\order\index.php on line 38
+[02-May-2015 16:32:40 America/New_York] PHP Stack trace:
+[02-May-2015 16:32:40 America/New_York] PHP   1. {main}() C:\xampp\htdocs\pizza2\admin\order\index.php:0
+[02-May-2015 16:35:36 America/New_York] =====Starting request: /pizza2/admin/order/index.php
+[02-May-2015 16:35:36 America/New_York] PHP Fatal error:  Call to undefined function initial_db() in C:\xampp\htdocs\pizza2\admin\order\index.php on line 38
+[02-May-2015 16:35:36 America/New_York] PHP Stack trace:
+[02-May-2015 16:35:36 America/New_York] PHP   1. {main}() C:\xampp\htdocs\pizza2\admin\order\index.php:0
+[02-May-2015 16:38:22 America/New_York] =====Starting request: /pizza2/admin/order/index.php
+[02-May-2015 16:38:22 America/New_York] PHP Warning:  require(../../model/initial_db.php): failed to open stream: No such file or directory in C:\xampp\htdocs\pizza2\admin\order\index.php on line 5
+[02-May-2015 16:38:22 America/New_York] PHP Stack trace:
+[02-May-2015 16:38:22 America/New_York] PHP   1. {main}() C:\xampp\htdocs\pizza2\admin\order\index.php:0
+[02-May-2015 16:38:22 America/New_York] PHP Fatal error:  require(): Failed opening required '../../model/initial_db.php' (include_path='C:/xampp/htdocs/pizza2/') in C:\xampp\htdocs\pizza2\admin\order\index.php on line 5
+[02-May-2015 16:38:22 America/New_York] PHP Stack trace:
+[02-May-2015 16:38:22 America/New_York] PHP   1. {main}() C:\xampp\htdocs\pizza2\admin\order\index.php:0
+[02-May-2015 16:38:55 America/New_York] =====Starting request: /pizza2/admin/order/index.php
+[02-May-2015 16:39:48 America/New_York] =====Starting request: /pizza2/admin/order/index.php
+[02-May-2015 16:39:49 America/New_York] =====Starting request: /pizza2/admin/order/
+[02-May-2015 16:40:00 America/New_York] =====Starting request: /pizza2/admin/order/index.php
+[02-May-2015 16:40:00 America/New_York] =====Starting request: /pizza2/admin/order/
+[02-May-2015 16:40:04 America/New_York] =====Starting request: /pizza2/admin/order/index.php
+[02-May-2015 16:40:04 America/New_York] =====Starting request: /pizza2/admin/order/
+[02-May-2015 16:40:11 America/New_York] =====Starting request: /pizza2/admin/
+[02-May-2015 16:40:11 America/New_York] PHP Warning:  require(../model/initial.php): failed to open stream: No such file or directory in C:\xampp\htdocs\pizza2\admin\index.php on line 4
+[02-May-2015 16:40:11 America/New_York] PHP Stack trace:
+[02-May-2015 16:40:11 America/New_York] PHP   1. {main}() C:\xampp\htdocs\pizza2\admin\index.php:0
+[02-May-2015 16:40:11 America/New_York] PHP Fatal error:  require(): Failed opening required '../model/initial.php' (include_path='C:/xampp/htdocs/pizza2/') in C:\xampp\htdocs\pizza2\admin\index.php on line 4
+[02-May-2015 16:40:11 America/New_York] PHP Stack trace:
+[02-May-2015 16:40:11 America/New_York] PHP   1. {main}() C:\xampp\htdocs\pizza2\admin\index.php:0
+[02-May-2015 16:40:57 America/New_York] =====Starting request: /pizza2/admin/
+[02-May-2015 16:42:05 America/New_York] =====Starting request: /pizza2/admin/
+[02-May-2015 16:42:09 America/New_York] =====Starting request: /pizza2/admin/topping/
+[02-May-2015 16:42:11 America/New_York] =====Starting request: /pizza2/admin/
+[02-May-2015 16:42:12 America/New_York] =====Starting request: /pizza2/admin/size/
+[02-May-2015 16:42:13 America/New_York] =====Starting request: /pizza2/admin/
+[02-May-2015 16:42:14 America/New_York] =====Starting request: /pizza2/admin/day/
+[02-May-2015 16:42:18 America/New_York] =====Starting request: /pizza2/admin/
+[02-May-2015 16:42:19 America/New_York] =====Starting request: /pizza2/admin/order/
+[02-May-2015 16:42:22 America/New_York] =====Starting request: /pizza2/admin/
+[02-May-2015 16:42:23 America/New_York] =====Starting request: /pizza2/admin/topping/
+[02-May-2015 16:42:25 America/New_York] =====Starting request: /pizza2/admin/
+[02-May-2015 16:42:26 America/New_York] =====Starting request: /pizza2/admin/size/
+[02-May-2015 16:46:04 America/New_York] =====Starting request: /pizza2/pizza/
+[02-May-2015 16:46:05 America/New_York] =====Starting request: /pizza2/pizza/?action=order_pizza&room=1
+[02-May-2015 16:46:30 America/New_York] =====Starting request: /pizza2/pizza/?action=order_pizza&room=1
+[02-May-2015 16:46:57 America/New_York] =====Starting request: /pizza2/pizza/?action=order_pizza&room=1
+[02-May-2015 16:46:58 America/New_York] =====Starting request: /pizza2/pizza/?action=order_pizza&room=1
+[02-May-2015 16:49:58 America/New_York] =====Starting request: /pizza2/pizza/
+[02-May-2015 16:50:01 America/New_York] =====Starting request: /pizza2/pizza/?action=order_pizza&room=1
+[02-May-2015 16:51:05 America/New_York] =====Starting request: /pizza2/pizza/?action=order_pizza&room=1
+[02-May-2015 16:53:38 America/New_York] =====Starting request: /pizza2/pizza/?action=order_pizza&room=1
+[02-May-2015 16:59:11 America/New_York] =====Starting request: /pizza2/pizza/?action=order_pizza&room=1
+[02-May-2015 16:59:22 America/New_York] =====Starting request: /pizza2/pizza/index.php?action=add_order&pizza_size=1&pizza_topping%5B%5D=1&room=1&n=
+[02-May-2015 16:59:22 America/New_York] =====Starting request: /pizza2/pizza/?room=1
+[02-May-2015 16:59:52 America/New_York] =====Starting request: /pizza2/pizza/?action=order_pizza&room=1
+[02-May-2015 17:00:59 America/New_York] =====Starting request: /pizza2/pizza/index.php?action=add_order&pizza_size=1&pizza_topping%5B%5D=1&room=1&n=10
+[02-May-2015 17:01:01 America/New_York] =====Starting request: /pizza2/pizza/?room=1
+[02-May-2015 17:02:11 America/New_York] =====Starting request: /pizza2/pizza/?action=order_pizza&room=1
+[02-May-2015 17:02:23 America/New_York] =====Starting request: /pizza2/pizza/index.php?action=add_order&pizza_size=1&pizza_topping%5B%5D=1&room=1&n=200
+[02-May-2015 17:02:44 America/New_York] =====Starting request: /pizza2/pizza/?room=1
+[27-Aug-2020 21:05:11 Europe/Berlin] =====Starting request: /pizza2/admin/
+[27-Aug-2020 21:05:38 Europe/Berlin] =====Starting request: /pizza2/admin/
+[27-Aug-2020 21:06:15 Europe/Berlin] =====Starting request: /pizza2/admin/size/
+[27-Aug-2020 21:06:17 Europe/Berlin] =====Starting request: /pizza2/admin/
+[26-Oct-2020 22:20:21 Europe/Berlin] =====Starting request: /pizza2/
+[26-Oct-2020 22:25:13 Europe/Berlin] =====Starting request: /pizza2/admin/
+[26-Oct-2020 22:25:13 Europe/Berlin] =====Starting request: /pizza2/admin/
+[26-Oct-2020 22:25:13 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[26-Oct-2020 22:26:17 Europe/Berlin] =====Starting request: /pizza2/
+[26-Oct-2020 22:26:55 Europe/Berlin] =====Starting request: /pizza2/admin/
+[26-Oct-2020 22:26:55 Europe/Berlin] =====Starting request: /pizza2/admin/
+[26-Oct-2020 22:26:55 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[26-Oct-2020 22:27:49 Europe/Berlin] =====Starting request: /pizza2/admin/topping/
+[26-Oct-2020 22:27:52 Europe/Berlin] =====Starting request: /pizza2/admin/
+[26-Oct-2020 22:27:52 Europe/Berlin] =====Starting request: /pizza2/admin/
+[26-Oct-2020 22:27:52 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[26-Oct-2020 22:28:49 Europe/Berlin] =====Starting request: /pizza2/admin/
+[26-Oct-2020 22:28:49 Europe/Berlin] =====Starting request: /pizza2/admin/
+[26-Oct-2020 22:28:49 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[26-Oct-2020 22:28:51 Europe/Berlin] =====Starting request: /pizza2/admin/
+[26-Oct-2020 22:28:51 Europe/Berlin] =====Starting request: /pizza2/admin/
+[26-Oct-2020 22:28:51 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[26-Oct-2020 22:28:54 Europe/Berlin] =====Starting request: /pizza2/admin/topping/
+[26-Oct-2020 22:28:54 Europe/Berlin] =====Starting request: /pizza2/admin/topping/
+[26-Oct-2020 22:28:54 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[26-Oct-2020 22:28:56 Europe/Berlin] =====Starting request: /pizza2/admin/
+[26-Oct-2020 22:28:56 Europe/Berlin] =====Starting request: /pizza2/admin/
+[26-Oct-2020 22:28:56 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[26-Oct-2020 22:28:57 Europe/Berlin] =====Starting request: /pizza2/admin/size/
+[26-Oct-2020 22:28:57 Europe/Berlin] =====Starting request: /pizza2/admin/size/
+[26-Oct-2020 22:28:57 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[26-Oct-2020 22:29:00 Europe/Berlin] =====Starting request: /pizza2/admin/
+[26-Oct-2020 22:29:00 Europe/Berlin] =====Starting request: /pizza2/admin/
+[26-Oct-2020 22:29:00 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[26-Oct-2020 22:29:01 Europe/Berlin] =====Starting request: /pizza2/admin/day/
+[26-Oct-2020 22:29:01 Europe/Berlin] =====Starting request: /pizza2/admin/day/
+[26-Oct-2020 22:29:01 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[26-Oct-2020 22:29:04 Europe/Berlin] =====Starting request: /pizza2/admin/
+[26-Oct-2020 22:29:04 Europe/Berlin] =====Starting request: /pizza2/admin/
+[26-Oct-2020 22:29:04 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[27-Oct-2020 05:15:19 Europe/Berlin] =====Starting request: /pizza2/
+[27-Oct-2020 05:15:28 Europe/Berlin] =====Starting request: /pizza2/admin/
+[27-Oct-2020 05:15:28 Europe/Berlin] =====Starting request: /pizza2/admin/
+[27-Oct-2020 05:15:28 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[27-Oct-2020 05:15:30 Europe/Berlin] =====Starting request: /pizza2/admin/topping/
+[27-Oct-2020 05:15:30 Europe/Berlin] =====Starting request: /pizza2/admin/topping/
+[27-Oct-2020 05:15:30 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[27-Oct-2020 05:15:34 Europe/Berlin] =====Starting request: /pizza2/admin/topping/?action=show_add_form
+[27-Oct-2020 05:15:34 Europe/Berlin] =====Starting request: /pizza2/admin/topping/?action=show_add_form
+[27-Oct-2020 05:15:34 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[27-Oct-2020 05:15:35 Europe/Berlin] =====Starting request: /pizza2/admin/topping/index.php?action=list_toppings
+[27-Oct-2020 05:15:35 Europe/Berlin] =====Starting request: /pizza2/admin/topping/index.php?action=list_toppings
+[27-Oct-2020 05:15:35 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[27-Oct-2020 05:15:42 Europe/Berlin] =====Starting request: /pizza2/admin/
+[27-Oct-2020 05:15:42 Europe/Berlin] =====Starting request: /pizza2/admin/
+[27-Oct-2020 05:15:42 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[27-Oct-2020 05:15:43 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[27-Oct-2020 05:15:43 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[27-Oct-2020 05:15:43 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[27-Oct-2020 05:15:46 Europe/Berlin] =====Starting request: /pizza2/pizza/?action=order_pizza&room=1
+[27-Oct-2020 05:15:46 Europe/Berlin] =====Starting request: /pizza2/pizza/?action=order_pizza&room=1
+[27-Oct-2020 05:15:46 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[02-Nov-2020 19:25:30 Europe/Berlin] =====Starting request: /pizza2/
+[02-Nov-2020 19:25:34 Europe/Berlin] =====Starting request: /pizza2/admin/
+[02-Nov-2020 19:25:34 Europe/Berlin] =====Starting request: /pizza2/admin/
+[02-Nov-2020 19:25:34 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[02-Nov-2020 19:25:37 Europe/Berlin] =====Starting request: /pizza2/
+[19-Feb-2021 00:32:53 Europe/Berlin] =====Starting request: /pizza2/
+[19-Feb-2021 00:32:55 Europe/Berlin] =====Starting request: /pizza2/admin/
+[19-Feb-2021 00:32:55 Europe/Berlin] =====Starting request: /pizza2/admin/
+[19-Feb-2021 00:32:55 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[19-Feb-2021 00:32:57 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[19-Feb-2021 00:32:57 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[19-Feb-2021 00:32:57 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[19-Feb-2021 00:33:55 Europe/Berlin] =====Starting request: /pizza2/pizza/?action=order_pizza&room=1
+[19-Feb-2021 00:33:55 Europe/Berlin] =====Starting request: /pizza2/pizza/?action=order_pizza&room=1
+[19-Feb-2021 00:33:55 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[19-Feb-2021 00:33:58 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php?action=add_order&pizza_size=3&room=1&n=
+[19-Feb-2021 00:33:58 Europe/Berlin] =====Starting request: /pizza2/pizza/?room=1
+[19-Feb-2021 00:33:58 Europe/Berlin] =====Starting request: /pizza2/pizza/?room=1
+[19-Feb-2021 00:33:58 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[19-Feb-2021 00:34:01 Europe/Berlin] =====Starting request: /pizza2/pizza/?action=order_pizza&room=1
+[19-Feb-2021 00:34:01 Europe/Berlin] =====Starting request: /pizza2/pizza/?action=order_pizza&room=1
+[19-Feb-2021 00:34:01 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[19-Feb-2021 00:34:02 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[19-Feb-2021 00:34:02 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[19-Feb-2021 00:34:02 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[19-Feb-2021 00:34:14 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[19-Feb-2021 00:34:14 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[19-Feb-2021 00:34:14 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[19-Feb-2021 00:34:15 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[19-Feb-2021 00:34:15 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[19-Feb-2021 00:34:15 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[19-Feb-2021 00:34:16 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[19-Feb-2021 00:34:16 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[19-Feb-2021 00:34:16 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[04-Apr-2021 05:35:28 Europe/Berlin] =====Starting request: /pizza2/
+[04-Apr-2021 05:35:51 Europe/Berlin] =====Starting request: /pizza2/admin/
+[04-Apr-2021 05:35:51 Europe/Berlin] =====Starting request: /pizza2/admin/
+[04-Apr-2021 05:35:51 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[04-Apr-2021 05:35:54 Europe/Berlin] =====Starting request: /pizza2/admin/size/
+[04-Apr-2021 05:35:54 Europe/Berlin] =====Starting request: /pizza2/admin/size/
+[04-Apr-2021 05:35:54 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[04-Apr-2021 05:35:56 Europe/Berlin] =====Starting request: /pizza2/admin/size/?action=show_add_form
+[04-Apr-2021 05:35:56 Europe/Berlin] =====Starting request: /pizza2/admin/size/?action=show_add_form
+[04-Apr-2021 05:35:56 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[04-Apr-2021 05:35:57 Europe/Berlin] =====Starting request: /pizza2/admin/size/index.php
+[04-Apr-2021 05:35:59 Europe/Berlin] =====Starting request: /pizza2/admin/size/?action=show_add_form
+[04-Apr-2021 05:35:59 Europe/Berlin] =====Starting request: /pizza2/admin/size/?action=show_add_form
+[04-Apr-2021 05:35:59 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[05-Apr-2021 18:24:36 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[05-Apr-2021 18:24:36 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[05-Apr-2021 18:24:36 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[05-Apr-2021 18:24:41 Europe/Berlin] =====Starting request: /pizza2/pizza/?action=order_pizza&room=1
+[05-Apr-2021 18:24:41 Europe/Berlin] =====Starting request: /pizza2/pizza/?action=order_pizza&room=1
+[05-Apr-2021 18:24:41 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[05-Apr-2021 18:28:10 Europe/Berlin] =====Starting request: /pizza2/
+[05-Apr-2021 18:29:49 Europe/Berlin] =====Starting request: /pizza2/admin/
+[05-Apr-2021 18:29:49 Europe/Berlin] =====Starting request: /pizza2/admin/
+[05-Apr-2021 18:29:49 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[05-Apr-2021 18:30:27 Europe/Berlin] =====Starting request: /pizza2/admin/topping/
+[05-Apr-2021 18:30:27 Europe/Berlin] =====Starting request: /pizza2/admin/topping/
+[05-Apr-2021 18:30:27 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[05-Apr-2021 18:30:29 Europe/Berlin] =====Starting request: /pizza2/admin/
+[05-Apr-2021 18:30:29 Europe/Berlin] =====Starting request: /pizza2/admin/
+[05-Apr-2021 18:30:29 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[05-Apr-2021 18:30:30 Europe/Berlin] =====Starting request: /pizza2/admin/size/
+[05-Apr-2021 18:30:30 Europe/Berlin] =====Starting request: /pizza2/admin/size/
+[05-Apr-2021 18:30:30 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[05-Apr-2021 18:30:32 Europe/Berlin] =====Starting request: /pizza2/admin/
+[05-Apr-2021 18:30:32 Europe/Berlin] =====Starting request: /pizza2/admin/
+[05-Apr-2021 18:30:32 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[05-Apr-2021 18:30:33 Europe/Berlin] =====Starting request: /pizza2/admin/day/
+[05-Apr-2021 18:30:33 Europe/Berlin] =====Starting request: /pizza2/admin/day/
+[05-Apr-2021 18:30:33 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[05-Apr-2021 18:30:34 Europe/Berlin] =====Starting request: /pizza2/admin/
+[05-Apr-2021 18:30:34 Europe/Berlin] =====Starting request: /pizza2/admin/
+[05-Apr-2021 18:30:34 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[05-Apr-2021 18:30:35 Europe/Berlin] =====Starting request: /pizza2/admin/order/
+[05-Apr-2021 18:30:35 Europe/Berlin] =====Starting request: /pizza2/admin/order/
+[05-Apr-2021 18:30:35 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[05-Apr-2021 18:30:36 Europe/Berlin] =====Starting request: /pizza2/admin/
+[05-Apr-2021 18:30:36 Europe/Berlin] =====Starting request: /pizza2/admin/
+[05-Apr-2021 18:30:36 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[05-Apr-2021 18:31:16 Europe/Berlin] =====Starting request: /pizza2/admin/topping/
+[05-Apr-2021 18:31:16 Europe/Berlin] =====Starting request: /pizza2/admin/topping/
+[05-Apr-2021 18:31:16 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[05-Apr-2021 19:04:37 Europe/Berlin] =====Starting request: /pizza2/admin/topping/?action=show_add_form
+[05-Apr-2021 19:04:37 Europe/Berlin] =====Starting request: /pizza2/admin/topping/?action=show_add_form
+[05-Apr-2021 19:04:37 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[05-Apr-2021 19:04:39 Europe/Berlin] =====Starting request: /pizza2/admin/topping/index.php?action=list_toppings
+[05-Apr-2021 19:04:39 Europe/Berlin] =====Starting request: /pizza2/admin/topping/index.php?action=list_toppings
+[05-Apr-2021 19:04:39 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[05-Apr-2021 19:04:40 Europe/Berlin] =====Starting request: /pizza2/admin/topping/?action=show_add_form
+[05-Apr-2021 19:04:40 Europe/Berlin] =====Starting request: /pizza2/admin/topping/?action=show_add_form
+[05-Apr-2021 19:04:40 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[05-Apr-2021 19:04:42 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[05-Apr-2021 19:04:42 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[05-Apr-2021 19:04:42 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[05-Apr-2021 19:09:15 Europe/Berlin] =====Starting request: /pizza2/admin/topping/?action=show_add_form
+[05-Apr-2021 19:09:15 Europe/Berlin] =====Starting request: /pizza2/admin/topping/?action=show_add_form
+[05-Apr-2021 19:09:15 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[05-Apr-2021 19:09:16 Europe/Berlin] =====Starting request: /pizza2/admin/topping/index.php?action=list_toppings
+[05-Apr-2021 19:09:16 Europe/Berlin] =====Starting request: /pizza2/admin/topping/index.php?action=list_toppings
+[05-Apr-2021 19:09:16 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[05-Apr-2021 19:09:16 Europe/Berlin] =====Starting request: /pizza2/admin/topping/?action=show_add_form
+[05-Apr-2021 19:09:16 Europe/Berlin] =====Starting request: /pizza2/admin/topping/?action=show_add_form
+[05-Apr-2021 19:09:16 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[05-Apr-2021 19:09:17 Europe/Berlin] =====Starting request: /pizza2/admin/topping/
+[05-Apr-2021 19:09:17 Europe/Berlin] =====Starting request: /pizza2/admin/topping/
+[05-Apr-2021 19:09:17 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[05-Apr-2021 19:09:17 Europe/Berlin] =====Starting request: /pizza2/admin/
+[05-Apr-2021 19:09:17 Europe/Berlin] =====Starting request: /pizza2/admin/
+[05-Apr-2021 19:09:17 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[05-Apr-2021 19:09:21 Europe/Berlin] =====Starting request: /pizza2/admin/order/
+[05-Apr-2021 19:09:21 Europe/Berlin] =====Starting request: /pizza2/admin/order/
+[05-Apr-2021 19:09:21 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[05-Apr-2021 19:09:21 Europe/Berlin] =====Starting request: /pizza2/admin/
+[05-Apr-2021 19:09:21 Europe/Berlin] =====Starting request: /pizza2/admin/
+[05-Apr-2021 19:09:21 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[05-Apr-2021 19:09:22 Europe/Berlin] =====Starting request: /pizza2/admin/day/
+[05-Apr-2021 19:09:22 Europe/Berlin] =====Starting request: /pizza2/admin/day/
+[05-Apr-2021 19:09:22 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[05-Apr-2021 19:09:22 Europe/Berlin] =====Starting request: /pizza2/admin/
+[05-Apr-2021 19:09:22 Europe/Berlin] =====Starting request: /pizza2/admin/
+[05-Apr-2021 19:09:22 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[05-Apr-2021 19:09:23 Europe/Berlin] =====Starting request: /pizza2/admin/size/
+[05-Apr-2021 19:09:23 Europe/Berlin] =====Starting request: /pizza2/admin/size/
+[05-Apr-2021 19:09:23 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[05-Apr-2021 19:09:23 Europe/Berlin] =====Starting request: /pizza2/admin/
+[05-Apr-2021 19:09:23 Europe/Berlin] =====Starting request: /pizza2/admin/
+[05-Apr-2021 19:09:23 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[05-Apr-2021 19:09:23 Europe/Berlin] =====Starting request: /pizza2/admin/topping/
+[05-Apr-2021 19:09:23 Europe/Berlin] =====Starting request: /pizza2/admin/topping/
+[05-Apr-2021 19:09:23 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[05-Apr-2021 19:09:24 Europe/Berlin] =====Starting request: /pizza2/admin/
+[05-Apr-2021 19:09:24 Europe/Berlin] =====Starting request: /pizza2/admin/
+[05-Apr-2021 19:09:24 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[05-Apr-2021 19:09:24 Europe/Berlin] =====Starting request: /pizza2/
+[05-Apr-2021 19:09:37 Europe/Berlin] =====Starting request: /pizza2/admin/
+[05-Apr-2021 19:09:37 Europe/Berlin] =====Starting request: /pizza2/admin/
+[05-Apr-2021 19:09:37 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[05-Apr-2021 19:09:42 Europe/Berlin] =====Starting request: /pizza2/admin/
+[05-Apr-2021 19:09:42 Europe/Berlin] =====Starting request: /pizza2/admin/
+[05-Apr-2021 19:09:42 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[05-Apr-2021 19:09:44 Europe/Berlin] =====Starting request: /pizza2/
+[05-Apr-2021 19:09:46 Europe/Berlin] =====Starting request: /pizza2/admin/
+[05-Apr-2021 19:09:46 Europe/Berlin] =====Starting request: /pizza2/admin/
+[05-Apr-2021 19:09:46 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[05-Apr-2021 19:09:48 Europe/Berlin] =====Starting request: /pizza2/admin/topping/
+[05-Apr-2021 19:09:48 Europe/Berlin] =====Starting request: /pizza2/admin/topping/
+[05-Apr-2021 19:09:48 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[05-Apr-2021 19:09:50 Europe/Berlin] =====Starting request: /pizza2/admin/topping/?action=show_add_form
+[05-Apr-2021 19:09:50 Europe/Berlin] =====Starting request: /pizza2/admin/topping/?action=show_add_form
+[05-Apr-2021 19:09:50 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[05-Apr-2021 19:14:27 Europe/Berlin] =====Starting request: /pizza2/admin/
+[05-Apr-2021 19:14:27 Europe/Berlin] =====Starting request: /pizza2/admin/
+[05-Apr-2021 19:14:27 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[05-Apr-2021 19:50:02 Europe/Berlin] =====Starting request: /pizza2/
+[05-Apr-2021 20:28:28 Europe/Berlin] =====Starting request: /pizza2/admin/
+[05-Apr-2021 20:28:28 Europe/Berlin] =====Starting request: /pizza2/admin/
+[05-Apr-2021 20:28:28 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[05-Apr-2021 20:28:30 Europe/Berlin] =====Starting request: /pizza2/admin/topping/
+[05-Apr-2021 20:28:30 Europe/Berlin] =====Starting request: /pizza2/admin/topping/
+[05-Apr-2021 20:28:30 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[05-Apr-2021 20:28:33 Europe/Berlin] =====Starting request: /pizza2/admin/topping/?action=show_add_form
+[05-Apr-2021 20:28:33 Europe/Berlin] =====Starting request: /pizza2/admin/topping/?action=show_add_form
+[05-Apr-2021 20:28:33 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[05-Apr-2021 20:28:35 Europe/Berlin] =====Starting request: /pizza2/admin/topping/index.php?action=list_toppings
+[05-Apr-2021 20:28:35 Europe/Berlin] =====Starting request: /pizza2/admin/topping/index.php?action=list_toppings
+[05-Apr-2021 20:28:35 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[05-Apr-2021 20:28:35 Europe/Berlin] =====Starting request: /pizza2/admin/topping/?action=show_add_form
+[05-Apr-2021 20:28:36 Europe/Berlin] =====Starting request: /pizza2/admin/topping/?action=show_add_form
+[05-Apr-2021 20:28:36 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[05-Apr-2021 20:28:36 Europe/Berlin] =====Starting request: /pizza2/admin/topping/index.php?action=list_toppings
+[05-Apr-2021 20:28:36 Europe/Berlin] =====Starting request: /pizza2/admin/topping/index.php?action=list_toppings
+[05-Apr-2021 20:28:36 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[05-Apr-2021 20:28:37 Europe/Berlin] =====Starting request: /pizza2/admin/topping/?action=show_add_form
+[05-Apr-2021 20:28:37 Europe/Berlin] =====Starting request: /pizza2/admin/topping/?action=show_add_form
+[05-Apr-2021 20:28:37 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[05-Apr-2021 20:28:38 Europe/Berlin] =====Starting request: /pizza2/admin/topping/index.php?action=list_toppings
+[05-Apr-2021 20:28:38 Europe/Berlin] =====Starting request: /pizza2/admin/topping/index.php?action=list_toppings
+[05-Apr-2021 20:28:38 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[05-Apr-2021 20:28:40 Europe/Berlin] =====Starting request: /pizza2/admin/topping/?action=show_add_form
+[05-Apr-2021 20:28:40 Europe/Berlin] =====Starting request: /pizza2/admin/topping/?action=show_add_form
+[05-Apr-2021 20:28:40 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[05-Apr-2021 20:28:42 Europe/Berlin] =====Starting request: /pizza2/admin/topping/index.php?action=list_toppings
+[05-Apr-2021 20:28:42 Europe/Berlin] =====Starting request: /pizza2/admin/topping/index.php?action=list_toppings
+[05-Apr-2021 20:28:42 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[06-Apr-2021 05:45:17 Europe/Berlin] =====Starting request: /pizza2/admin/topping/index.php?action=list_toppings
+[06-Apr-2021 05:45:17 Europe/Berlin] =====Starting request: /pizza2/admin/topping/index.php?action=list_toppings
+[06-Apr-2021 05:45:17 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[06-Apr-2021 05:45:17 Europe/Berlin] PHP Notice:  Undefined variable: topppings in C:\xampp\htdocs\pizza2\admin\topping\topping_list.php on line 10
+[06-Apr-2021 05:45:17 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\pizza2\admin\topping\topping_list.php on line 10
+[06-Apr-2021 05:45:37 Europe/Berlin] =====Starting request: /pizza2/admin/topping/index.php?action=list_toppings
+[06-Apr-2021 05:45:37 Europe/Berlin] =====Starting request: /pizza2/admin/topping/index.php?action=list_toppings
+[06-Apr-2021 05:45:37 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[06-Apr-2021 15:48:48 Europe/Berlin] =====Starting request: /pizza2/
+[06-Apr-2021 15:48:56 Europe/Berlin] =====Starting request: /records2/
+[06-Apr-2021 15:49:15 Europe/Berlin] =====Starting request: /records2/
+[06-Apr-2021 15:49:32 Europe/Berlin] =====Starting request: /records2/
+[06-Apr-2021 15:49:46 Europe/Berlin] =====Starting request: /records2/
+[06-Apr-2021 15:50:35 Europe/Berlin] =====Starting request: /records2/
+[06-Apr-2021 15:54:13 Europe/Berlin] =====Starting request: /records2/
+[06-Apr-2021 15:54:47 Europe/Berlin] =====Starting request: /records2/
+[06-Apr-2021 18:23:12 Europe/Berlin] =====Starting request: /records2/
+[06-Apr-2021 18:24:08 Europe/Berlin] =====Starting request: /records2/
+[06-Apr-2021 18:26:22 Europe/Berlin] =====Starting request: /records2/
+[06-Apr-2021 18:26:23 Europe/Berlin] =====Starting request: /records2/
+[06-Apr-2021 18:26:23 Europe/Berlin] =====Starting request: /records2/
+[06-Apr-2021 18:27:02 Europe/Berlin] =====Starting request: /records2/
+[06-Apr-2021 18:27:33 Europe/Berlin] =====Starting request: /records2/
+[06-Apr-2021 18:29:15 Europe/Berlin] =====Starting request: /records2/
+[06-Apr-2021 18:29:24 Europe/Berlin] =====Starting request: /records2/
+[06-Apr-2021 18:29:55 Europe/Berlin] =====Starting request: /records2/
+[06-Apr-2021 18:31:06 Europe/Berlin] =====Starting request: /records2/
+[06-Apr-2021 18:31:07 Europe/Berlin] =====Starting request: /records2/
+[06-Apr-2021 18:31:07 Europe/Berlin] =====Starting request: /records2/
+[06-Apr-2021 18:34:58 Europe/Berlin] =====Starting request: /records2/
+[06-Apr-2021 18:34:58 Europe/Berlin] =====Starting request: /records2/
+[06-Apr-2021 18:34:59 Europe/Berlin] =====Starting request: /records2/
+[06-Apr-2021 18:35:16 Europe/Berlin] =====Starting request: /records2/
+[06-Apr-2021 18:35:31 Europe/Berlin] =====Starting request: /records2/
+[06-Apr-2021 18:36:03 Europe/Berlin] =====Starting request: /records2/
+[06-Apr-2021 18:36:27 Europe/Berlin] =====Starting request: /records2/
+[06-Apr-2021 18:36:33 Europe/Berlin] =====Starting request: /records2/
+[06-Apr-2021 21:06:00 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[06-Apr-2021 21:06:00 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[06-Apr-2021 21:06:00 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[06-Apr-2021 21:07:17 Europe/Berlin] =====Starting request: /pizza2/
+[06-Apr-2021 21:07:20 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[06-Apr-2021 21:07:20 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[06-Apr-2021 21:07:20 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[06-Apr-2021 21:08:09 Europe/Berlin] =====Starting request: /pizza2/pizza/?action=order_pizza&room=1
+[06-Apr-2021 21:08:09 Europe/Berlin] =====Starting request: /pizza2/pizza/?action=order_pizza&room=1
+[06-Apr-2021 21:08:09 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[06-Apr-2021 21:19:55 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php?action=add_order&pizza_size=1&pizza_topping%5B%5D=1&room=1&n=1
+[06-Apr-2021 21:19:55 Europe/Berlin] =====Starting request: /pizza2/pizza/?room=1
+[06-Apr-2021 21:19:55 Europe/Berlin] =====Starting request: /pizza2/pizza/?room=1
+[06-Apr-2021 21:19:55 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[06-Apr-2021 21:28:06 Europe/Berlin] =====Starting request: /pizza2/admin/
+[06-Apr-2021 21:28:06 Europe/Berlin] =====Starting request: /pizza2/admin/
+[06-Apr-2021 21:28:06 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[06-Apr-2021 21:28:08 Europe/Berlin] =====Starting request: /pizza2/admin/order/
+[06-Apr-2021 21:28:08 Europe/Berlin] =====Starting request: /pizza2/admin/order/
+[06-Apr-2021 21:28:08 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[06-Apr-2021 21:28:29 Europe/Berlin] =====Starting request: /pizza2/admin/
+[06-Apr-2021 21:28:29 Europe/Berlin] =====Starting request: /pizza2/admin/
+[06-Apr-2021 21:28:29 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[06-Apr-2021 21:28:40 Europe/Berlin] =====Starting request: /pizza2/admin/order/
+[06-Apr-2021 21:28:40 Europe/Berlin] =====Starting request: /pizza2/admin/order/
+[06-Apr-2021 21:28:40 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[06-Apr-2021 21:35:32 Europe/Berlin] =====Starting request: /pizza2/admin/order/index.php
+[06-Apr-2021 21:35:32 Europe/Berlin] =====Starting request: /pizza2/admin/order/
+[06-Apr-2021 21:35:32 Europe/Berlin] =====Starting request: /pizza2/admin/order/
+[06-Apr-2021 21:35:32 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[07-Apr-2021 03:25:57 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[07-Apr-2021 03:25:57 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[07-Apr-2021 03:25:57 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[22-Apr-2021 18:50:31 Europe/Berlin] =====Starting request: /pizza2/
+[22-Apr-2021 18:50:34 Europe/Berlin] =====Starting request: /pizza2/admin/
+[22-Apr-2021 18:50:34 Europe/Berlin] =====Starting request: /pizza2/admin/
+[22-Apr-2021 18:50:34 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[22-Apr-2021 18:50:38 Europe/Berlin] =====Starting request: /pizza2/admin/topping/
+[22-Apr-2021 18:50:38 Europe/Berlin] =====Starting request: /pizza2/admin/topping/
+[22-Apr-2021 18:50:38 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[22-Apr-2021 18:50:40 Europe/Berlin] =====Starting request: /pizza2/admin/topping/?action=show_add_form
+[22-Apr-2021 18:50:40 Europe/Berlin] =====Starting request: /pizza2/admin/topping/?action=show_add_form
+[22-Apr-2021 18:50:40 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[22-Apr-2021 18:50:46 Europe/Berlin] =====Starting request: /pizza2/admin/topping/index.php
+[22-Apr-2021 18:50:46 Europe/Berlin] =====Starting request: /pizza2/admin/topping/
+[22-Apr-2021 18:50:46 Europe/Berlin] =====Starting request: /pizza2/admin/topping/
+[22-Apr-2021 18:50:46 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[22-Apr-2021 18:56:02 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[22-Apr-2021 18:56:02 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[22-Apr-2021 18:56:02 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[22-Apr-2021 18:56:04 Europe/Berlin] =====Starting request: /pizza2/pizza/?action=order_pizza&room=1
+[22-Apr-2021 18:56:04 Europe/Berlin] =====Starting request: /pizza2/pizza/?action=order_pizza&room=1
+[22-Apr-2021 18:56:04 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[22-Apr-2021 18:56:10 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php?action=add_order&pizza_size=1&pizza_topping%5B%5D=1&room=1&n=
+[22-Apr-2021 18:56:10 Europe/Berlin] =====Starting request: /pizza2/pizza/?room=1
+[22-Apr-2021 18:56:11 Europe/Berlin] =====Starting request: /pizza2/pizza/?room=1
+[22-Apr-2021 18:56:11 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[22-Apr-2021 19:26:10 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[22-Apr-2021 19:26:10 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[22-Apr-2021 19:26:10 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[22-Apr-2021 19:26:22 Europe/Berlin] =====Starting request: /pizza2/pizza/?action=order_pizza&room=1
+[22-Apr-2021 19:26:22 Europe/Berlin] =====Starting request: /pizza2/pizza/?action=order_pizza&room=1
+[22-Apr-2021 19:26:22 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[22-Apr-2021 19:26:25 Europe/Berlin] =====Starting request: /pizza2/pizza/?action=order_pizza&room=1
+[22-Apr-2021 19:26:25 Europe/Berlin] =====Starting request: /pizza2/pizza/?action=order_pizza&room=1
+[22-Apr-2021 19:26:25 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[22-Apr-2021 19:26:30 Europe/Berlin] =====Starting request: /pizza2/
+[22-Apr-2021 19:26:32 Europe/Berlin] =====Starting request: /pizza2/admin/
+[22-Apr-2021 19:26:32 Europe/Berlin] =====Starting request: /pizza2/admin/
+[22-Apr-2021 19:26:32 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[22-Apr-2021 19:26:37 Europe/Berlin] =====Starting request: /pizza2/admin/day/
+[22-Apr-2021 19:26:37 Europe/Berlin] =====Starting request: /pizza2/admin/day/
+[22-Apr-2021 19:26:37 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[22-Apr-2021 19:26:40 Europe/Berlin] =====Starting request: /pizza2/admin/day/index.php
+[22-Apr-2021 19:26:40 Europe/Berlin] =====Starting request: /pizza2/admin/day/
+[22-Apr-2021 19:26:40 Europe/Berlin] =====Starting request: /pizza2/admin/day/
+[22-Apr-2021 19:26:40 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[22-Apr-2021 19:26:44 Europe/Berlin] =====Starting request: /pizza2/admin/
+[22-Apr-2021 19:26:44 Europe/Berlin] =====Starting request: /pizza2/admin/
+[22-Apr-2021 19:26:44 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[22-Apr-2021 19:26:46 Europe/Berlin] =====Starting request: /pizza2/admin/order/
+[22-Apr-2021 19:26:46 Europe/Berlin] =====Starting request: /pizza2/admin/order/
+[22-Apr-2021 19:26:46 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[22-Apr-2021 19:26:50 Europe/Berlin] =====Starting request: /pizza2/admin/order/index.php
+[22-Apr-2021 19:26:50 Europe/Berlin] =====Starting request: /pizza2/admin/order/
+[22-Apr-2021 19:26:50 Europe/Berlin] =====Starting request: /pizza2/admin/order/
+[22-Apr-2021 19:26:50 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[22-Apr-2021 19:26:54 Europe/Berlin] =====Starting request: /pizza2/admin/
+[22-Apr-2021 19:26:54 Europe/Berlin] =====Starting request: /pizza2/admin/
+[22-Apr-2021 19:26:54 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[22-Apr-2021 19:26:55 Europe/Berlin] =====Starting request: /pizza2/admin/day/
+[22-Apr-2021 19:26:55 Europe/Berlin] =====Starting request: /pizza2/admin/day/
+[22-Apr-2021 19:26:55 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[22-Apr-2021 19:29:01 Europe/Berlin] =====Starting request: /pizza2/admin/day/index.php
+[22-Apr-2021 19:29:01 Europe/Berlin] =====Starting request: /pizza2/admin/day/
+[22-Apr-2021 19:29:01 Europe/Berlin] =====Starting request: /pizza2/admin/day/
+[22-Apr-2021 19:29:01 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[22-Apr-2021 19:29:01 Europe/Berlin] =====Starting request: /pizza2/admin/day/index.php
+[22-Apr-2021 19:29:01 Europe/Berlin] =====Starting request: /pizza2/admin/day/
+[22-Apr-2021 19:29:01 Europe/Berlin] =====Starting request: /pizza2/admin/day/
+[22-Apr-2021 19:29:01 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[22-Apr-2021 19:29:02 Europe/Berlin] =====Starting request: /pizza2/admin/day/index.php
+[22-Apr-2021 19:29:02 Europe/Berlin] =====Starting request: /pizza2/admin/day/
+[22-Apr-2021 19:29:02 Europe/Berlin] =====Starting request: /pizza2/admin/day/
+[22-Apr-2021 19:29:02 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[22-Apr-2021 19:29:02 Europe/Berlin] =====Starting request: /pizza2/admin/day/index.php
+[22-Apr-2021 19:29:02 Europe/Berlin] =====Starting request: /pizza2/admin/day/
+[22-Apr-2021 19:29:02 Europe/Berlin] =====Starting request: /pizza2/admin/day/
+[22-Apr-2021 19:29:02 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[22-Apr-2021 19:29:02 Europe/Berlin] =====Starting request: /pizza2/admin/day/index.php
+[22-Apr-2021 19:29:03 Europe/Berlin] =====Starting request: /pizza2/admin/day/
+[22-Apr-2021 19:29:03 Europe/Berlin] =====Starting request: /pizza2/admin/day/
+[22-Apr-2021 19:29:03 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[22-Apr-2021 19:29:13 Europe/Berlin] =====Starting request: /pizza2/admin/
+[22-Apr-2021 19:29:13 Europe/Berlin] =====Starting request: /pizza2/admin/
+[22-Apr-2021 19:29:13 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[22-Apr-2021 19:29:15 Europe/Berlin] =====Starting request: /pizza2/admin/order/
+[22-Apr-2021 19:29:15 Europe/Berlin] =====Starting request: /pizza2/admin/order/
+[22-Apr-2021 19:29:15 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[22-Apr-2021 19:29:22 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[22-Apr-2021 19:29:22 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[22-Apr-2021 19:29:22 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[22-Apr-2021 19:29:30 Europe/Berlin] =====Starting request: /pizza2/pizza/?action=order_pizza&room=1
+[22-Apr-2021 19:29:30 Europe/Berlin] =====Starting request: /pizza2/pizza/?action=order_pizza&room=1
+[22-Apr-2021 19:29:30 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[22-Apr-2021 19:29:49 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php?action=add_order&pizza_size=1&pizza_topping%5B%5D=1&room=2&n=2
+[22-Apr-2021 19:29:49 Europe/Berlin] =====Starting request: /pizza2/pizza/?room=2
+[22-Apr-2021 19:29:49 Europe/Berlin] =====Starting request: /pizza2/pizza/?room=2
+[22-Apr-2021 19:29:49 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[22-Apr-2021 19:29:58 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[22-Apr-2021 19:29:58 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[22-Apr-2021 19:29:58 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[22-Apr-2021 19:30:06 Europe/Berlin] =====Starting request: /pizza2/admin/
+[22-Apr-2021 19:30:06 Europe/Berlin] =====Starting request: /pizza2/admin/
+[22-Apr-2021 19:30:06 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[22-Apr-2021 19:30:10 Europe/Berlin] =====Starting request: /pizza2/admin/order/
+[22-Apr-2021 19:30:10 Europe/Berlin] =====Starting request: /pizza2/admin/order/
+[22-Apr-2021 19:30:10 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[22-Apr-2021 19:30:28 Europe/Berlin] =====Starting request: /pizza2/admin/order/index.php
+[22-Apr-2021 19:30:28 Europe/Berlin] =====Starting request: /pizza2/admin/order/
+[22-Apr-2021 19:30:28 Europe/Berlin] =====Starting request: /pizza2/admin/order/
+[22-Apr-2021 19:30:28 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[22-Apr-2021 19:30:31 Europe/Berlin] =====Starting request: /pizza2/admin/order/index.php
+[22-Apr-2021 19:30:31 Europe/Berlin] =====Starting request: /pizza2/admin/order/
+[22-Apr-2021 19:30:31 Europe/Berlin] =====Starting request: /pizza2/admin/order/
+[22-Apr-2021 19:30:31 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[22-Apr-2021 19:30:52 Europe/Berlin] =====Starting request: /pizza2/admin/
+[22-Apr-2021 19:30:52 Europe/Berlin] =====Starting request: /pizza2/admin/
+[22-Apr-2021 19:30:52 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[22-Apr-2021 19:30:54 Europe/Berlin] =====Starting request: /pizza2/admin/day/
+[22-Apr-2021 19:30:54 Europe/Berlin] =====Starting request: /pizza2/admin/day/
+[22-Apr-2021 19:30:54 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[22-Apr-2021 19:30:56 Europe/Berlin] =====Starting request: /pizza2/admin/day/index.php
+[22-Apr-2021 19:30:56 Europe/Berlin] =====Starting request: /pizza2/admin/day/
+[22-Apr-2021 19:30:56 Europe/Berlin] =====Starting request: /pizza2/admin/day/
+[22-Apr-2021 19:30:56 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[22-Apr-2021 19:33:53 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[22-Apr-2021 19:33:53 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[22-Apr-2021 19:33:53 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[22-Apr-2021 19:34:27 Europe/Berlin] =====Starting request: /pizza2/pizza/?action=order_pizza&room=1
+[22-Apr-2021 19:34:27 Europe/Berlin] =====Starting request: /pizza2/pizza/?action=order_pizza&room=1
+[22-Apr-2021 19:34:27 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[22-Apr-2021 19:34:31 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[22-Apr-2021 19:34:31 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[22-Apr-2021 19:34:31 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[22-Apr-2021 19:34:40 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[22-Apr-2021 19:34:40 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[22-Apr-2021 19:34:40 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[22-Apr-2021 19:35:01 Europe/Berlin] =====Starting request: /pizza2/pizza/?action=order_pizza&room=1
+[22-Apr-2021 19:35:01 Europe/Berlin] =====Starting request: /pizza2/pizza/?action=order_pizza&room=1
+[22-Apr-2021 19:35:01 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[22-Apr-2021 19:36:19 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php?action=add_order&pizza_size=1&pizza_topping%5B%5D=1&room=1&n=8
+[22-Apr-2021 19:36:19 Europe/Berlin] =====Starting request: /pizza2/pizza/?room=1
+[22-Apr-2021 19:36:19 Europe/Berlin] =====Starting request: /pizza2/pizza/?room=1
+[22-Apr-2021 19:36:19 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[22-Apr-2021 19:36:40 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php
+[22-Apr-2021 19:36:40 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php
+[22-Apr-2021 19:36:40 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[22-Apr-2021 19:36:43 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php
+[22-Apr-2021 19:36:43 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php
+[22-Apr-2021 19:36:43 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[22-Apr-2021 19:37:26 Europe/Berlin] =====Starting request: /pizza2/admin/
+[22-Apr-2021 19:37:26 Europe/Berlin] =====Starting request: /pizza2/admin/
+[22-Apr-2021 19:37:26 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[22-Apr-2021 19:37:28 Europe/Berlin] =====Starting request: /pizza2/admin/order/
+[22-Apr-2021 19:37:28 Europe/Berlin] =====Starting request: /pizza2/admin/order/
+[22-Apr-2021 19:37:28 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[22-Apr-2021 19:37:29 Europe/Berlin] =====Starting request: /pizza2/admin/order/index.php
+[22-Apr-2021 19:37:29 Europe/Berlin] =====Starting request: /pizza2/admin/order/
+[22-Apr-2021 19:37:29 Europe/Berlin] =====Starting request: /pizza2/admin/order/
+[22-Apr-2021 19:37:29 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[22-Apr-2021 19:37:32 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[22-Apr-2021 19:37:32 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[22-Apr-2021 19:37:32 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[22-Apr-2021 19:40:42 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php?room=1&action=update_order_status
+[22-Apr-2021 19:40:42 Europe/Berlin] =====Starting request: /pizza2/pizza/?room=1
+[22-Apr-2021 19:40:42 Europe/Berlin] =====Starting request: /pizza2/pizza/?room=1
+[22-Apr-2021 19:40:42 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[22-Apr-2021 19:40:46 Europe/Berlin] =====Starting request: /pizza2/admin/
+[22-Apr-2021 19:40:46 Europe/Berlin] =====Starting request: /pizza2/admin/
+[22-Apr-2021 19:40:46 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[22-Apr-2021 19:40:47 Europe/Berlin] =====Starting request: /pizza2/admin/order/
+[22-Apr-2021 19:40:48 Europe/Berlin] =====Starting request: /pizza2/admin/order/
+[22-Apr-2021 19:40:48 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[22-Apr-2021 19:43:44 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[22-Apr-2021 19:43:44 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[22-Apr-2021 19:43:44 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[22-Apr-2021 19:43:49 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php
+[22-Apr-2021 19:43:50 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php
+[22-Apr-2021 19:43:50 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[22-Apr-2021 19:44:18 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php
+[22-Apr-2021 19:44:18 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php
+[22-Apr-2021 19:44:18 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[22-Apr-2021 19:44:32 Europe/Berlin] =====Starting request: /pizza2/admin/
+[22-Apr-2021 19:44:32 Europe/Berlin] =====Starting request: /pizza2/admin/
+[22-Apr-2021 19:44:32 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[22-Apr-2021 19:44:33 Europe/Berlin] =====Starting request: /pizza2/admin/order/
+[22-Apr-2021 19:44:33 Europe/Berlin] =====Starting request: /pizza2/admin/order/
+[22-Apr-2021 19:44:33 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[22-Apr-2021 19:44:35 Europe/Berlin] =====Starting request: /pizza2/admin/order/index.php
+[22-Apr-2021 19:44:35 Europe/Berlin] =====Starting request: /pizza2/admin/order/
+[22-Apr-2021 19:44:35 Europe/Berlin] =====Starting request: /pizza2/admin/order/
+[22-Apr-2021 19:44:35 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[22-Apr-2021 19:44:56 Europe/Berlin] =====Starting request: /pizza2/admin/order/index.php
+[22-Apr-2021 19:44:56 Europe/Berlin] =====Starting request: /pizza2/admin/order/
+[22-Apr-2021 19:44:56 Europe/Berlin] =====Starting request: /pizza2/admin/order/
+[22-Apr-2021 19:44:56 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[22-Apr-2021 21:14:58 Europe/Berlin] =====Starting request: /pizza2/
+[22-Apr-2021 21:15:04 Europe/Berlin] =====Starting request: /pizza2/
+[22-Apr-2021 21:15:47 Europe/Berlin] =====Starting request: /pizza2/
+[22-Apr-2021 21:16:06 Europe/Berlin] =====Starting request: /pizza2/
+[22-Apr-2021 21:16:13 Europe/Berlin] =====Starting request: /pizza2/
+[22-Apr-2021 23:32:54 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[22-Apr-2021 23:32:54 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[22-Apr-2021 23:32:54 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 33
+[22-Apr-2021 23:33:59 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[22-Apr-2021 23:33:59 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[22-Apr-2021 23:34:04 Europe/Berlin] =====Starting request: /pizza2/
+[22-Apr-2021 23:34:07 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[22-Apr-2021 23:34:07 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[22-Apr-2021 23:36:04 Europe/Berlin] =====Starting request: /pizza2/
+[22-Apr-2021 23:36:06 Europe/Berlin] =====Starting request: /pizza2/
+[22-Apr-2021 23:36:24 Europe/Berlin] =====Starting request: /pizza2/
+[22-Apr-2021 23:36:26 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[22-Apr-2021 23:36:26 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[22-Apr-2021 23:36:30 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php
+[22-Apr-2021 23:36:30 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php
+[22-Apr-2021 23:36:31 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php?action=order_pizza&room=1
+[22-Apr-2021 23:36:31 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php?action=order_pizza&room=1
+[22-Apr-2021 23:36:37 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php?action=add_order&pizza_size=1&pizza_topping%5B%5D=1&room=1&n=1
+[22-Apr-2021 23:36:37 Europe/Berlin] =====Starting request: /pizza2/pizza/?room=1
+[22-Apr-2021 23:36:37 Europe/Berlin] =====Starting request: /pizza2/pizza/?room=1
+[22-Apr-2021 23:36:42 Europe/Berlin] =====Starting request: /pizza2/pizza/?action=order_pizza&room=1
+[22-Apr-2021 23:36:42 Europe/Berlin] =====Starting request: /pizza2/pizza/?action=order_pizza&room=1
+[22-Apr-2021 23:36:49 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php?action=add_order&pizza_size=1&pizza_topping%5B%5D=1&room=2&n=3
+[22-Apr-2021 23:36:49 Europe/Berlin] =====Starting request: /pizza2/pizza/?room=2
+[22-Apr-2021 23:36:49 Europe/Berlin] =====Starting request: /pizza2/pizza/?room=2
+[22-Apr-2021 23:36:55 Europe/Berlin] =====Starting request: /pizza2/admin/
+[22-Apr-2021 23:36:55 Europe/Berlin] =====Starting request: /pizza2/admin/
+[22-Apr-2021 23:36:56 Europe/Berlin] =====Starting request: /pizza2/admin/order/
+[22-Apr-2021 23:36:56 Europe/Berlin] =====Starting request: /pizza2/admin/order/
+[22-Apr-2021 23:36:57 Europe/Berlin] =====Starting request: /pizza2/admin/order/index.php
+[22-Apr-2021 23:36:57 Europe/Berlin] =====Starting request: /pizza2/admin/order/
+[22-Apr-2021 23:36:57 Europe/Berlin] =====Starting request: /pizza2/admin/order/
+[22-Apr-2021 23:37:00 Europe/Berlin] =====Starting request: /pizza2/admin/order/index.php
+[22-Apr-2021 23:37:01 Europe/Berlin] =====Starting request: /pizza2/admin/order/
+[22-Apr-2021 23:37:01 Europe/Berlin] =====Starting request: /pizza2/admin/order/
+[22-Apr-2021 23:37:18 Europe/Berlin] =====Starting request: /pizza2/admin/order/
+[22-Apr-2021 23:37:18 Europe/Berlin] =====Starting request: /pizza2/admin/order/
+[22-Apr-2021 23:38:00 Europe/Berlin] =====Starting request: /pizza2/
+[22-Apr-2021 23:41:59 Europe/Berlin] =====Starting request: /pizza2/
+[22-Apr-2021 23:47:41 Europe/Berlin] =====Starting request: /pizza2/
+[22-Apr-2021 23:52:39 Europe/Berlin] =====Starting request: /pizza2/
+[22-Apr-2021 23:53:26 Europe/Berlin] =====Starting request: /pizza2/
+[22-Apr-2021 23:56:14 Europe/Berlin] =====Starting request: /pizza2/admin/
+[22-Apr-2021 23:56:14 Europe/Berlin] PHP Notice:  Array to string conversion in C:\xampp\htdocs\pizza2\util\main.php on line 8
+[22-Apr-2021 23:56:14 Europe/Berlin] =====Starting request: /pizza2/admin/
+[22-Apr-2021 23:56:15 Europe/Berlin] =====Starting request: /pizza2/admin/
+[22-Apr-2021 23:56:15 Europe/Berlin] PHP Notice:  Array to string conversion in C:\xampp\htdocs\pizza2\util\main.php on line 8
+[22-Apr-2021 23:56:15 Europe/Berlin] =====Starting request: /pizza2/admin/
+[22-Apr-2021 23:56:27 Europe/Berlin] =====Starting request: /pizza2/admin/
+[22-Apr-2021 23:56:27 Europe/Berlin] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\pizza2\util\main.php on line 8
+[22-Apr-2021 23:56:27 Europe/Berlin] =====Starting request: /pizza2/admin/
+[22-Apr-2021 23:56:36 Europe/Berlin] =====Starting request: /pizza2/admin/
+[22-Apr-2021 23:56:36 Europe/Berlin] =====Starting request: /pizza2/admin/
+[22-Apr-2021 23:56:54 Europe/Berlin] =====Starting request: /pizza2/admin/
+[22-Apr-2021 23:56:54 Europe/Berlin] =====Starting request: /pizza2/admin/
+[22-Apr-2021 23:57:04 Europe/Berlin] =====Starting request: /pizza2/admin/
+[22-Apr-2021 23:57:04 Europe/Berlin] =====Starting request: /pizza2/admin/
+[22-Apr-2021 23:57:20 Europe/Berlin] =====Starting request: /pizza2/admin/
+[22-Apr-2021 23:57:20 Europe/Berlin] =====Starting request: /pizza2/admin/
+[22-Apr-2021 23:57:54 Europe/Berlin] =====Starting request: /pizza2/admin/
+[22-Apr-2021 23:57:54 Europe/Berlin] =====Starting request: /pizza2/admin/
+[22-Apr-2021 23:58:04 Europe/Berlin] =====Starting request: /pizza2/
+[22-Apr-2021 23:58:11 Europe/Berlin] =====Starting request: /pizza2/
+[22-Apr-2021 23:58:23 Europe/Berlin] =====Starting request: /pizza2/
+[22-Apr-2021 23:58:50 Europe/Berlin] =====Starting request: /pizza2/
+[22-Apr-2021 23:59:07 Europe/Berlin] =====Starting request: /pizza2/
+[23-Apr-2021 00:16:06 Europe/Berlin] =====Starting request: /pizza2/
+[23-Apr-2021 00:16:13 Europe/Berlin] =====Starting request: /pizza2/admin/
+[23-Apr-2021 00:16:13 Europe/Berlin] =====Starting request: /pizza2/admin/
+[23-Apr-2021 00:16:15 Europe/Berlin] =====Starting request: /pizza2/admin/size/
+[23-Apr-2021 00:16:15 Europe/Berlin] =====Starting request: /pizza2/admin/size/
+[23-Apr-2021 00:16:17 Europe/Berlin] =====Starting request: /pizza2/admin/size/?action=show_add_form
+[23-Apr-2021 00:16:17 Europe/Berlin] =====Starting request: /pizza2/admin/size/?action=show_add_form
+[23-Apr-2021 00:16:18 Europe/Berlin] =====Starting request: /pizza2/admin/size/index.php
+[23-Apr-2021 00:18:45 Europe/Berlin] =====Starting request: /pizza2/
+[23-Apr-2021 00:18:53 Europe/Berlin] =====Starting request: /pizza2/
+[23-Apr-2021 03:08:18 Europe/Berlin] =====Starting request: /pizza2/
+[23-Apr-2021 03:08:30 Europe/Berlin] =====Starting request: /pizza2/
+[23-Apr-2021 03:09:19 Europe/Berlin] =====Starting request: /pizza2/
+[23-Apr-2021 03:09:48 Europe/Berlin] =====Starting request: /pizza2/
+[23-Apr-2021 03:20:07 Europe/Berlin] =====Starting request: /pizza2/
+[23-Apr-2021 03:20:23 Europe/Berlin] =====Starting request: /pizza2/
+[23-Apr-2021 03:20:54 Europe/Berlin] =====Starting request: /pizza2/
+[23-Apr-2021 15:55:21 Europe/Berlin] =====Starting request: /pizza2/
+[23-Apr-2021 15:55:30 Europe/Berlin] =====Starting request: /pizza2/
+[23-Apr-2021 15:56:15 Europe/Berlin] =====Starting request: /pizza2/
+[23-Apr-2021 17:20:58 Europe/Berlin] =====Starting request: /pizza2/
+[23-Apr-2021 17:21:21 Europe/Berlin] =====Starting request: /pizza2/
+[23-Apr-2021 17:22:08 Europe/Berlin] =====Starting request: /pizza2/
+[23-Apr-2021 17:24:07 Europe/Berlin] =====Starting request: /pizza2/
+[23-Apr-2021 17:25:55 Europe/Berlin] =====Starting request: /pizza2/admin/
+[23-Apr-2021 17:25:55 Europe/Berlin] =====Starting request: /pizza2/admin/
+[23-Apr-2021 17:29:10 Europe/Berlin] =====Starting request: /pizza2%20-%20Copy/
+[23-Apr-2021 17:29:32 Europe/Berlin] =====Starting request: /pizza2/
+[23-Apr-2021 17:29:52 Europe/Berlin] =====Starting request: /pizza2%20-%20Copy/
+[23-Apr-2021 17:30:07 Europe/Berlin] =====Starting request: /pizza2%20-%20Copy/
+[23-Apr-2021 17:30:56 Europe/Berlin] =====Starting request: /pizza2/
+[23-Apr-2021 17:31:03 Europe/Berlin] =====Starting request: /pizza2/admin/
+[23-Apr-2021 17:31:03 Europe/Berlin] =====Starting request: /pizza2/admin/
+[23-Apr-2021 17:43:40 Europe/Berlin] =====Starting request: /pizza2/
+[23-Apr-2021 17:44:04 Europe/Berlin] =====Starting request: /pizza2/
+[23-Apr-2021 17:46:31 Europe/Berlin] =====Starting request: /pizza2/
+[23-Apr-2021 17:46:32 Europe/Berlin] =====Starting request: /pizza2/
+[23-Apr-2021 17:48:42 Europe/Berlin] =====Starting request: /pizza2/
+[23-Apr-2021 17:48:44 Europe/Berlin] =====Starting request: /pizza2/
+[23-Apr-2021 17:48:45 Europe/Berlin] =====Starting request: /pizza2/
+[23-Apr-2021 17:51:56 Europe/Berlin] =====Starting request: /pizza2/
+[23-Apr-2021 17:53:39 Europe/Berlin] =====Starting request: /pizza2/
+[23-Apr-2021 17:55:35 Europe/Berlin] =====Starting request: /pizza2/
+[23-Apr-2021 17:56:40 Europe/Berlin] =====Starting request: /pizza2/
+[23-Apr-2021 17:56:41 Europe/Berlin] =====Starting request: /pizza2/
+[23-Apr-2021 17:57:47 Europe/Berlin] =====Starting request: /pizza2/
+[23-Apr-2021 17:58:40 Europe/Berlin] =====Starting request: /pizza2/
+[23-Apr-2021 17:59:22 Europe/Berlin] =====Starting request: /pizza2/
+[23-Apr-2021 18:06:39 Europe/Berlin] =====Starting request: /pizza2/
+[23-Apr-2021 18:07:18 Europe/Berlin] =====Starting request: /pizza2/
+[23-Apr-2021 18:21:23 Europe/Berlin] =====Starting request: /pizza2/
+[23-Apr-2021 18:21:30 Europe/Berlin] =====Starting request: /pizza2/
+[23-Apr-2021 18:22:26 Europe/Berlin] =====Starting request: /pizza2/
+[23-Apr-2021 18:22:46 Europe/Berlin] =====Starting request: /pizza2/
+[23-Apr-2021 18:23:27 Europe/Berlin] =====Starting request: /pizza2/
+[23-Apr-2021 18:42:34 Europe/Berlin] =====Starting request: /pizza2/
+[23-Apr-2021 18:43:03 Europe/Berlin] =====Starting request: /pizza2/
+[23-Apr-2021 18:43:19 Europe/Berlin] =====Starting request: /pizza2/
+[23-Apr-2021 18:50:50 Europe/Berlin] =====Starting request: /pizza2/
+[23-Apr-2021 18:53:02 Europe/Berlin] =====Starting request: /pizza2/
+[23-Apr-2021 18:53:05 Europe/Berlin] =====Starting request: /pizza2/
+[23-Apr-2021 18:53:26 Europe/Berlin] =====Starting request: /pizza2/
+[23-Apr-2021 18:55:15 Europe/Berlin] =====Starting request: /pizza2/
+[23-Apr-2021 18:56:31 Europe/Berlin] =====Starting request: /pizza2/admin/
+[23-Apr-2021 18:56:31 Europe/Berlin] =====Starting request: /pizza2/admin/
+[23-Apr-2021 19:06:22 Europe/Berlin] =====Starting request: /pizza2/
+[23-Apr-2021 19:06:29 Europe/Berlin] =====Starting request: /pizza2/
+[23-Apr-2021 19:16:15 Europe/Berlin] =====Starting request: /pizza2/
+[23-Apr-2021 19:16:17 Europe/Berlin] =====Starting request: /pizza2/admin/
+[23-Apr-2021 19:16:17 Europe/Berlin] =====Starting request: /pizza2/admin/
+[23-Apr-2021 19:20:26 Europe/Berlin] =====Starting request: /pizza2/admin/
+[23-Apr-2021 19:20:26 Europe/Berlin] =====Starting request: /pizza2/admin/
+[23-Apr-2021 19:21:32 Europe/Berlin] =====Starting request: /pizza2/admin/
+[23-Apr-2021 19:21:32 Europe/Berlin] =====Starting request: /pizza2/admin/
+[23-Apr-2021 19:21:42 Europe/Berlin] =====Starting request: /pizza2/admin/
+[23-Apr-2021 19:21:42 Europe/Berlin] =====Starting request: /pizza2/admin/
+[23-Apr-2021 19:25:42 Europe/Berlin] =====Starting request: /pizza2/admin/
+[23-Apr-2021 19:25:42 Europe/Berlin] =====Starting request: /pizza2/admin/
+[23-Apr-2021 19:28:29 Europe/Berlin] =====Starting request: /pizza2/admin/
+[23-Apr-2021 19:28:29 Europe/Berlin] =====Starting request: /pizza2/admin/
+[23-Apr-2021 20:42:19 Europe/Berlin] =====Starting request: /pizza2/
+[23-Apr-2021 20:42:21 Europe/Berlin] =====Starting request: /pizza2/
+[23-Apr-2021 20:42:23 Europe/Berlin] =====Starting request: /pizza2/admin/
+[23-Apr-2021 20:42:23 Europe/Berlin] =====Starting request: /pizza2/admin/
+[23-Apr-2021 20:42:24 Europe/Berlin] =====Starting request: /pizza2/admin/topping/
+[23-Apr-2021 20:42:24 Europe/Berlin] =====Starting request: /pizza2/admin/topping/
+[23-Apr-2021 21:04:22 Europe/Berlin] =====Starting request: /pizza2/admin/
+[23-Apr-2021 21:04:22 Europe/Berlin] =====Starting request: /pizza2/admin/
+[23-Apr-2021 21:08:15 Europe/Berlin] =====Starting request: /pizza2/
+[23-Apr-2021 21:08:24 Europe/Berlin] =====Starting request: /pizza2/admin/
+[23-Apr-2021 21:08:24 Europe/Berlin] =====Starting request: /pizza2/admin/
+[23-Apr-2021 21:08:25 Europe/Berlin] =====Starting request: /pizza2/admin/order/
+[23-Apr-2021 21:08:25 Europe/Berlin] =====Starting request: /pizza2/admin/order/
+[23-Apr-2021 21:08:26 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[23-Apr-2021 21:08:26 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[23-Apr-2021 21:08:27 Europe/Berlin] =====Starting request: /pizza2/admin/
+[23-Apr-2021 21:08:27 Europe/Berlin] =====Starting request: /pizza2/admin/
+[23-Apr-2021 21:08:28 Europe/Berlin] =====Starting request: /pizza2/admin/size/
+[23-Apr-2021 21:08:28 Europe/Berlin] =====Starting request: /pizza2/admin/size/
+[23-Apr-2021 21:08:29 Europe/Berlin] =====Starting request: /pizza2/admin/size/?action=show_add_form
+[23-Apr-2021 21:08:29 Europe/Berlin] =====Starting request: /pizza2/admin/size/?action=show_add_form
+[23-Apr-2021 21:08:30 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[23-Apr-2021 21:08:30 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[23-Apr-2021 21:08:31 Europe/Berlin] =====Starting request: /pizza2/admin/
+[23-Apr-2021 21:08:31 Europe/Berlin] =====Starting request: /pizza2/admin/
+[23-Apr-2021 21:16:36 Europe/Berlin] =====Starting request: /pizza2/admin/
+[23-Apr-2021 21:16:36 Europe/Berlin] =====Starting request: /pizza2/admin/
+[23-Apr-2021 21:16:38 Europe/Berlin] =====Starting request: /pizza2/admin/topping/
+[23-Apr-2021 21:16:38 Europe/Berlin] =====Starting request: /pizza2/admin/topping/
+[23-Apr-2021 21:28:53 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[23-Apr-2021 21:28:53 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[23-Apr-2021 21:28:57 Europe/Berlin] =====Starting request: /pizza2/
+[23-Apr-2021 21:29:34 Europe/Berlin] =====Starting request: /pizza2/admin/
+[23-Apr-2021 21:29:34 Europe/Berlin] =====Starting request: /pizza2/admin/
+[23-Apr-2021 21:30:06 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[23-Apr-2021 21:30:06 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[23-Apr-2021 21:33:40 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[23-Apr-2021 21:33:40 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[24-Apr-2021 01:18:25 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[24-Apr-2021 01:18:25 Europe/Berlin] PHP Notice:  Array to string conversion in C:\xampp\htdocs\pizza2\util\main.php on line 22
+[24-Apr-2021 01:18:25 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[24-Apr-2021 01:18:33 Europe/Berlin] =====Starting request: /pizza2/
+[24-Apr-2021 01:18:43 Europe/Berlin] =====Starting request: /pizza2/
+[24-Apr-2021 01:20:05 Europe/Berlin] =====Starting request: /pizza2/
+[24-Apr-2021 01:25:11 Europe/Berlin] =====Starting request: /pizza2/
+[24-Apr-2021 02:05:31 Europe/Berlin] =====Starting request: /pizza2/
+[24-Apr-2021 02:08:15 Europe/Berlin] =====Starting request: /pizza2/
+[24-Apr-2021 02:08:17 Europe/Berlin] =====Starting request: /pizza2/
+[24-Apr-2021 02:08:18 Europe/Berlin] =====Starting request: /pizza2/
+[24-Apr-2021 02:08:19 Europe/Berlin] =====Starting request: /pizza2/
+[24-Apr-2021 02:08:22 Europe/Berlin] =====Starting request: /pizza2/
+[24-Apr-2021 02:08:28 Europe/Berlin] =====Starting request: /pizza2/
+[24-Apr-2021 02:09:43 Europe/Berlin] =====Starting request: /pizza2/
+[24-Apr-2021 02:09:52 Europe/Berlin] =====Starting request: /pizza2/
+[24-Apr-2021 02:11:17 Europe/Berlin] =====Starting request: /pizza2/
+[24-Apr-2021 02:11:39 Europe/Berlin] =====Starting request: /pizza2/admin/
+[24-Apr-2021 02:11:39 Europe/Berlin] =====Starting request: /pizza2/admin/
+[24-Apr-2021 02:11:39 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 67
+[24-Apr-2021 02:15:15 Europe/Berlin] =====Starting request: /pizza2/
+[24-Apr-2021 02:27:36 Europe/Berlin] =====Starting request: /pizza2/
+[24-Apr-2021 02:39:49 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[24-Apr-2021 02:39:49 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[24-Apr-2021 02:39:49 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 67
+[24-Apr-2021 02:42:09 Europe/Berlin] =====Starting request: /pizza2/
+[24-Apr-2021 02:42:39 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[24-Apr-2021 02:42:39 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[24-Apr-2021 02:42:39 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 67
+[24-Apr-2021 02:44:21 Europe/Berlin] =====Starting request: /pizza2/
+[24-Apr-2021 02:46:33 Europe/Berlin] =====Starting request: /pizza2/
+[24-Apr-2021 02:46:35 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[24-Apr-2021 02:46:35 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[24-Apr-2021 02:46:35 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 67
+[24-Apr-2021 05:01:18 Europe/Berlin] =====Starting request: /pizza2/pizza/?action=order_pizza&room=1
+[24-Apr-2021 05:01:18 Europe/Berlin] =====Starting request: /pizza2/pizza/?action=order_pizza&room=1
+[24-Apr-2021 05:01:18 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 67
+[24-Apr-2021 05:01:23 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[24-Apr-2021 05:01:23 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[24-Apr-2021 05:01:23 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 67
+[24-Apr-2021 05:03:32 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[24-Apr-2021 05:03:32 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[24-Apr-2021 05:03:32 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 67
+[24-Apr-2021 05:04:38 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[24-Apr-2021 05:04:38 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[24-Apr-2021 05:04:38 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 67
+[24-Apr-2021 05:06:48 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[24-Apr-2021 05:06:48 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[24-Apr-2021 05:06:48 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 67
+[24-Apr-2021 05:07:28 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[24-Apr-2021 05:07:28 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[24-Apr-2021 05:07:28 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 67
+[24-Apr-2021 05:07:38 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[24-Apr-2021 05:07:38 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[24-Apr-2021 05:07:38 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 67
+[24-Apr-2021 05:07:39 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[24-Apr-2021 05:07:39 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[24-Apr-2021 05:07:39 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 67
+[24-Apr-2021 05:08:50 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[24-Apr-2021 05:08:50 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[24-Apr-2021 05:08:50 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\pizza2\util\main.php on line 67
+[24-Apr-2021 15:31:12 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[24-Apr-2021 15:31:12 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[24-Apr-2021 15:52:59 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[24-Apr-2021 15:52:59 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[24-Apr-2021 15:55:25 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[24-Apr-2021 15:55:26 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[24-Apr-2021 15:56:16 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[24-Apr-2021 15:56:16 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[24-Apr-2021 15:57:38 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[24-Apr-2021 15:57:38 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[24-Apr-2021 15:57:41 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[24-Apr-2021 15:57:41 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[24-Apr-2021 15:57:54 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[24-Apr-2021 15:57:54 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[24-Apr-2021 15:57:57 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php
+[24-Apr-2021 15:57:57 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php
+[24-Apr-2021 15:58:01 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php
+[24-Apr-2021 15:58:01 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php
+[24-Apr-2021 15:58:23 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php
+[24-Apr-2021 15:58:23 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php
+[24-Apr-2021 15:58:42 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php
+[24-Apr-2021 15:58:42 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php
+[24-Apr-2021 15:59:36 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php
+[24-Apr-2021 15:59:36 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php
+[24-Apr-2021 16:00:21 Europe/Berlin] =====Starting request: /pizza2/pizza/?action=order_pizza&room=1
+[24-Apr-2021 16:00:21 Europe/Berlin] =====Starting request: /pizza2/pizza/?action=order_pizza&room=1
+[24-Apr-2021 16:00:22 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[24-Apr-2021 16:00:22 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[24-Apr-2021 16:00:22 Europe/Berlin] =====Starting request: /pizza2/
+[24-Apr-2021 16:00:25 Europe/Berlin] =====Starting request: /pizza2/admin/
+[24-Apr-2021 16:00:25 Europe/Berlin] =====Starting request: /pizza2/admin/
+[24-Apr-2021 16:00:27 Europe/Berlin] =====Starting request: /pizza2/admin/day/
+[24-Apr-2021 16:00:27 Europe/Berlin] =====Starting request: /pizza2/admin/day/
+[24-Apr-2021 16:00:30 Europe/Berlin] =====Starting request: /pizza2/admin/
+[24-Apr-2021 16:00:30 Europe/Berlin] =====Starting request: /pizza2/admin/
+[24-Apr-2021 16:00:31 Europe/Berlin] =====Starting request: /pizza2/admin/order/
+[24-Apr-2021 16:00:32 Europe/Berlin] =====Starting request: /pizza2/admin/order/
+[24-Apr-2021 16:00:33 Europe/Berlin] =====Starting request: /pizza2/admin/order/index.php
+[24-Apr-2021 16:00:33 Europe/Berlin] =====Starting request: /pizza2/admin/order/
+[24-Apr-2021 16:00:33 Europe/Berlin] =====Starting request: /pizza2/admin/order/
+[24-Apr-2021 16:00:35 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[24-Apr-2021 16:00:35 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[24-Apr-2021 16:05:13 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[24-Apr-2021 16:05:13 Europe/Berlin] PHP Notice:  Array to string conversion in C:\xampp\htdocs\pizza2\pizza\index.php on line 12
+[24-Apr-2021 16:05:13 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[24-Apr-2021 16:06:03 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[24-Apr-2021 16:06:03 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[24-Apr-2021 16:06:36 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[24-Apr-2021 16:06:36 Europe/Berlin] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\pizza2\pizza\index.php on line 12
+[24-Apr-2021 16:06:36 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[24-Apr-2021 16:07:42 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[24-Apr-2021 16:07:42 Europe/Berlin] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\pizza2\pizza\index.php on line 12
+[24-Apr-2021 16:07:42 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[24-Apr-2021 16:07:54 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[24-Apr-2021 16:07:54 Europe/Berlin] PHP Notice:  Array to string conversion in C:\xampp\htdocs\pizza2\pizza\index.php on line 12
+[24-Apr-2021 16:07:54 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[24-Apr-2021 16:08:45 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[24-Apr-2021 16:08:45 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[24-Apr-2021 16:11:50 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[24-Apr-2021 16:11:50 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[24-Apr-2021 18:23:48 Europe/Berlin] =====Starting request: /pizza2/
+[24-Apr-2021 18:26:11 Europe/Berlin] =====Starting request: /pizza2/
+[24-Apr-2021 18:26:43 Europe/Berlin] =====Starting request: /pizza2/
+[24-Apr-2021 21:23:14 Europe/Berlin] =====Starting request: /pizza2/
+[24-Apr-2021 21:28:02 Europe/Berlin] =====Starting request: /pizza2/
+[24-Apr-2021 21:33:32 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[24-Apr-2021 21:33:32 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[24-Apr-2021 21:34:10 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[24-Apr-2021 21:34:10 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[24-Apr-2021 21:35:53 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[24-Apr-2021 21:35:53 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[24-Apr-2021 21:50:13 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php
+[24-Apr-2021 21:50:13 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php
+[24-Apr-2021 22:06:21 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php
+[24-Apr-2021 22:06:21 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php
+[24-Apr-2021 22:06:40 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php
+[24-Apr-2021 22:06:40 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php
+[24-Apr-2021 22:06:45 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php
+[24-Apr-2021 22:06:45 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php
+[24-Apr-2021 22:06:48 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php
+[24-Apr-2021 22:06:48 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php
+[24-Apr-2021 22:07:29 Europe/Berlin] =====Starting request: /pizza2/
+[24-Apr-2021 22:07:32 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[24-Apr-2021 22:07:32 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[24-Apr-2021 22:09:25 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[24-Apr-2021 22:10:22 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[24-Apr-2021 22:10:22 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[24-Apr-2021 22:17:09 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[24-Apr-2021 22:17:09 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[24-Apr-2021 22:17:11 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[24-Apr-2021 22:17:11 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[24-Apr-2021 22:17:14 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[24-Apr-2021 22:17:14 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[24-Apr-2021 22:19:50 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php
+[24-Apr-2021 22:19:50 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php
+[24-Apr-2021 22:44:38 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php
+[24-Apr-2021 22:44:38 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php
+[24-Apr-2021 22:47:19 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php
+[24-Apr-2021 22:47:19 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php
+[24-Apr-2021 23:18:20 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php
+[25-Apr-2021 01:23:58 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[25-Apr-2021 01:23:58 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[25-Apr-2021 01:24:01 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php
+[25-Apr-2021 01:24:01 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php
+[25-Apr-2021 01:24:01 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php
+[25-Apr-2021 01:24:01 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php
+[25-Apr-2021 01:24:02 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php
+[25-Apr-2021 01:24:02 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php
+[25-Apr-2021 01:24:02 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php
+[25-Apr-2021 01:24:02 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php
+[25-Apr-2021 01:24:02 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php
+[25-Apr-2021 01:24:02 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php
+[25-Apr-2021 01:24:02 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php
+[25-Apr-2021 01:24:02 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php
+[25-Apr-2021 01:24:04 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php
+[25-Apr-2021 01:24:04 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php
+[25-Apr-2021 01:24:05 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php
+[25-Apr-2021 01:24:05 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php
+[25-Apr-2021 01:24:06 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php
+[25-Apr-2021 01:24:06 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php
+[25-Apr-2021 01:24:06 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php
+[25-Apr-2021 01:24:06 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php
+[25-Apr-2021 01:24:06 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php
+[25-Apr-2021 01:24:06 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php
+[25-Apr-2021 01:24:07 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php
+[25-Apr-2021 01:24:07 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php
+[25-Apr-2021 01:24:07 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php
+[25-Apr-2021 01:24:07 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php
+[25-Apr-2021 01:24:10 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php
+[25-Apr-2021 01:24:10 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php
+[25-Apr-2021 01:24:11 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php
+[25-Apr-2021 01:24:11 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php
+[25-Apr-2021 01:24:12 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php
+[25-Apr-2021 01:24:12 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php
+[28-Apr-2021 00:05:43 Europe/Berlin] =====Starting request: /pizza2/
+[28-Apr-2021 01:09:21 Europe/Berlin] =====Starting request: /pizza2/admin/
+[28-Apr-2021 01:09:21 Europe/Berlin] =====Starting request: /pizza2/admin/
+[28-Apr-2021 01:11:14 Europe/Berlin] =====Starting request: /pizza2/admin/topping/
+[28-Apr-2021 01:11:14 Europe/Berlin] =====Starting request: /pizza2/admin/topping/
+[28-Apr-2021 01:33:58 Europe/Berlin] =====Starting request: /pizza2/admin/topping/
+[28-Apr-2021 01:33:58 Europe/Berlin] =====Starting request: /pizza2/admin/topping/
+[28-Apr-2021 01:34:02 Europe/Berlin] =====Starting request: /pizza2/
+[28-Apr-2021 01:34:05 Europe/Berlin] =====Starting request: /pizza2/admin/
+[28-Apr-2021 01:34:05 Europe/Berlin] =====Starting request: /pizza2/admin/
+[28-Apr-2021 01:34:06 Europe/Berlin] =====Starting request: /pizza2/admin/order/
+[28-Apr-2021 01:34:06 Europe/Berlin] =====Starting request: /pizza2/admin/order/
+[28-Apr-2021 01:34:08 Europe/Berlin] =====Starting request: /pizza2/admin/order/index.php
+[28-Apr-2021 01:34:08 Europe/Berlin] =====Starting request: /pizza2/admin/order/
+[28-Apr-2021 01:34:08 Europe/Berlin] =====Starting request: /pizza2/admin/order/
+[28-Apr-2021 01:34:10 Europe/Berlin] =====Starting request: /pizza2/admin/order/index.php
+[28-Apr-2021 01:34:10 Europe/Berlin] =====Starting request: /pizza2/admin/order/
+[28-Apr-2021 01:34:10 Europe/Berlin] =====Starting request: /pizza2/admin/order/
+[28-Apr-2021 01:34:12 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[28-Apr-2021 01:34:12 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[28-Apr-2021 01:34:14 Europe/Berlin] =====Starting request: /pizza2/pizza/?action=order_pizza&room=1
+[28-Apr-2021 01:34:14 Europe/Berlin] =====Starting request: /pizza2/pizza/?action=order_pizza&room=1
+[28-Apr-2021 01:34:20 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php?action=add_order&pizza_size=1&pizza_topping%5B%5D=1&room=1&n=435
+[28-Apr-2021 01:34:23 Europe/Berlin] =====Starting request: /pizza2/pizza/?room=1
+[28-Apr-2021 01:34:23 Europe/Berlin] =====Starting request: /pizza2/pizza/?room=1
+[28-Apr-2021 01:34:28 Europe/Berlin] =====Starting request: /pizza2/admin/
+[28-Apr-2021 01:34:28 Europe/Berlin] =====Starting request: /pizza2/admin/
+[28-Apr-2021 01:34:31 Europe/Berlin] =====Starting request: /pizza2/admin/order/
+[28-Apr-2021 01:34:31 Europe/Berlin] =====Starting request: /pizza2/admin/order/
+[28-Apr-2021 01:34:34 Europe/Berlin] =====Starting request: /pizza2/admin/order/index.php
+[28-Apr-2021 01:34:34 Europe/Berlin] =====Starting request: /pizza2/admin/order/
+[28-Apr-2021 01:34:34 Europe/Berlin] =====Starting request: /pizza2/admin/order/
+[28-Apr-2021 01:34:37 Europe/Berlin] =====Starting request: /pizza2/admin/order/index.php
+[28-Apr-2021 01:34:37 Europe/Berlin] =====Starting request: /pizza2/admin/order/
+[28-Apr-2021 01:34:37 Europe/Berlin] =====Starting request: /pizza2/admin/order/
+[28-Apr-2021 01:34:42 Europe/Berlin] =====Starting request: /pizza2/admin/order/index.php
+[28-Apr-2021 01:34:42 Europe/Berlin] =====Starting request: /pizza2/admin/order/
+[28-Apr-2021 01:34:42 Europe/Berlin] =====Starting request: /pizza2/admin/order/
+[28-Apr-2021 01:38:48 Europe/Berlin] =====Starting request: /pizza2/admin/order/
+[28-Apr-2021 01:38:48 Europe/Berlin] =====Starting request: /pizza2/admin/order/
+[28-Apr-2021 01:38:58 Europe/Berlin] =====Starting request: /pizza2/admin/order/index.php
+[28-Apr-2021 01:38:58 Europe/Berlin] =====Starting request: /pizza2/admin/order/
+[28-Apr-2021 01:38:58 Europe/Berlin] =====Starting request: /pizza2/admin/order/
+[28-Apr-2021 01:39:20 Europe/Berlin] =====Starting request: /pizza2/admin/order/index.php
+[28-Apr-2021 01:39:20 Europe/Berlin] =====Starting request: /pizza2/admin/order/
+[28-Apr-2021 01:39:20 Europe/Berlin] =====Starting request: /pizza2/admin/order/
+[28-Apr-2021 05:11:19 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[28-Apr-2021 05:11:19 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[28-Apr-2021 05:18:03 Europe/Berlin] =====Starting request: /pizza2/pizza/?action=order_pizza&room=1
+[28-Apr-2021 05:18:03 Europe/Berlin] =====Starting request: /pizza2/pizza/?action=order_pizza&room=1
+[28-Apr-2021 05:20:35 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[28-Apr-2021 05:20:35 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[28-Apr-2021 05:20:36 Europe/Berlin] =====Starting request: /pizza2/admin/order/
+[28-Apr-2021 05:20:36 Europe/Berlin] =====Starting request: /pizza2/admin/order/
+[28-Apr-2021 05:20:39 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[28-Apr-2021 05:20:39 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[28-Apr-2021 05:20:43 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php
+[28-Apr-2021 05:20:43 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php
+[28-Apr-2021 05:21:30 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php?action=order_pizza&room=3
+[28-Apr-2021 05:21:30 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php?action=order_pizza&room=3
+[28-Apr-2021 05:23:58 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php?action=add_order&pizza_size=1&pizza_topping%5B%5D=1&room=2&n=1
+[28-Apr-2021 05:23:58 Europe/Berlin] =====Starting request: /pizza2/pizza/?room=2
+[28-Apr-2021 05:23:58 Europe/Berlin] =====Starting request: /pizza2/pizza/?room=2
+[28-Apr-2021 05:24:11 Europe/Berlin] =====Starting request: /pizza2/admin/
+[28-Apr-2021 05:24:11 Europe/Berlin] =====Starting request: /pizza2/admin/
+[28-Apr-2021 05:24:12 Europe/Berlin] =====Starting request: /pizza2/admin/order/
+[28-Apr-2021 05:24:12 Europe/Berlin] =====Starting request: /pizza2/admin/order/
+[28-Apr-2021 05:24:16 Europe/Berlin] =====Starting request: /pizza2/admin/order/index.php
+[28-Apr-2021 05:24:16 Europe/Berlin] =====Starting request: /pizza2/admin/order/
+[28-Apr-2021 05:24:16 Europe/Berlin] =====Starting request: /pizza2/admin/order/
+[28-Apr-2021 05:24:24 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[28-Apr-2021 05:24:24 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[28-Apr-2021 05:24:27 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php
+[28-Apr-2021 05:24:27 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php
+[28-Apr-2021 05:24:30 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php?room=2&action=update_order_status
+[28-Apr-2021 05:24:30 Europe/Berlin] =====Starting request: /pizza2/pizza/?room=2
+[28-Apr-2021 05:24:30 Europe/Berlin] =====Starting request: /pizza2/pizza/?room=2
+[29-Apr-2021 17:23:47 Europe/Berlin] =====Starting request: /pizza2/pizza/?action=order_pizza&room=2
+[29-Apr-2021 17:23:47 Europe/Berlin] =====Starting request: /pizza2/pizza/?action=order_pizza&room=2
+[29-Apr-2021 17:24:27 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[29-Apr-2021 17:24:27 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[29-Apr-2021 17:26:24 Europe/Berlin] =====Starting request: /pizza2/pizza/?action=order_pizza&room=1
+[29-Apr-2021 17:26:24 Europe/Berlin] =====Starting request: /pizza2/pizza/?action=order_pizza&room=1
+[29-Apr-2021 17:26:27 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[29-Apr-2021 17:26:27 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[29-Apr-2021 17:27:13 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php
+[29-Apr-2021 17:27:13 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php
+[29-Apr-2021 17:27:32 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php?action=order_pizza&room=1
+[29-Apr-2021 17:27:32 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php?action=order_pizza&room=1
+[29-Apr-2021 17:28:10 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php?action=add_order&pizza_size=1&pizza_topping%5B%5D=1&room=6&n=9
+[29-Apr-2021 17:28:10 Europe/Berlin] =====Starting request: /pizza2/pizza/?room=6
+[29-Apr-2021 17:28:10 Europe/Berlin] =====Starting request: /pizza2/pizza/?room=6
+[29-Apr-2021 17:28:50 Europe/Berlin] =====Starting request: /pizza2/admin/
+[29-Apr-2021 17:28:50 Europe/Berlin] =====Starting request: /pizza2/admin/
+[29-Apr-2021 17:28:53 Europe/Berlin] =====Starting request: /pizza2/admin/day/
+[29-Apr-2021 17:28:53 Europe/Berlin] =====Starting request: /pizza2/admin/day/
+[29-Apr-2021 17:28:55 Europe/Berlin] =====Starting request: /pizza2/admin/day/index.php
+[29-Apr-2021 17:28:55 Europe/Berlin] =====Starting request: /pizza2/admin/day/
+[29-Apr-2021 17:28:55 Europe/Berlin] =====Starting request: /pizza2/admin/day/
+[29-Apr-2021 17:28:56 Europe/Berlin] =====Starting request: /pizza2/admin/
+[29-Apr-2021 17:28:56 Europe/Berlin] =====Starting request: /pizza2/admin/
+[29-Apr-2021 17:28:58 Europe/Berlin] =====Starting request: /pizza2/admin/order/
+[29-Apr-2021 17:28:58 Europe/Berlin] =====Starting request: /pizza2/admin/order/
+[29-Apr-2021 17:28:59 Europe/Berlin] =====Starting request: /pizza2/admin/order/index.php
+[29-Apr-2021 17:28:59 Europe/Berlin] =====Starting request: /pizza2/admin/order/
+[29-Apr-2021 17:28:59 Europe/Berlin] =====Starting request: /pizza2/admin/order/
+[29-Apr-2021 17:29:16 Europe/Berlin] =====Starting request: /pizza2/admin/
+[29-Apr-2021 17:29:16 Europe/Berlin] =====Starting request: /pizza2/admin/
+[29-Apr-2021 17:29:36 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[29-Apr-2021 17:29:36 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[29-Apr-2021 20:36:23 Europe/Berlin] =====Starting request: /pizza2/admin/
+[29-Apr-2021 20:36:23 Europe/Berlin] =====Starting request: /pizza2/admin/
+[29-Apr-2021 20:36:24 Europe/Berlin] =====Starting request: /pizza2/admin/topping/
+[29-Apr-2021 20:36:24 Europe/Berlin] =====Starting request: /pizza2/admin/topping/
+[29-Apr-2021 20:36:26 Europe/Berlin] =====Starting request: /pizza2/admin/topping/?action=show_add_form
+[29-Apr-2021 20:36:26 Europe/Berlin] =====Starting request: /pizza2/admin/topping/?action=show_add_form
+[29-Apr-2021 20:36:29 Europe/Berlin] =====Starting request: /pizza2/admin/topping/index.php?action=list_toppings
+[29-Apr-2021 20:36:29 Europe/Berlin] =====Starting request: /pizza2/admin/topping/index.php?action=list_toppings
+[29-Apr-2021 20:36:33 Europe/Berlin] =====Starting request: /pizza2/admin/
+[29-Apr-2021 20:36:33 Europe/Berlin] =====Starting request: /pizza2/admin/
+[29-Apr-2021 21:21:54 Europe/Berlin] =====Starting request: /pizza2/admin/
+[29-Apr-2021 21:21:54 Europe/Berlin] =====Starting request: /pizza2/admin/
+[29-Apr-2021 21:21:57 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[29-Apr-2021 21:21:57 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[29-Apr-2021 21:21:59 Europe/Berlin] =====Starting request: /pizza2/pizza/?action=order_pizza&room=1
+[29-Apr-2021 21:21:59 Europe/Berlin] =====Starting request: /pizza2/pizza/?action=order_pizza&room=1
+[29-Apr-2021 21:22:05 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php?action=add_order&pizza_size=1&room=1&n=4
+[29-Apr-2021 21:22:05 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\pizza2\model\order_db.php on line 151
+[29-Apr-2021 21:22:05 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\pizza2\model\order_db.php on line 151
+[29-Apr-2021 21:22:05 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\pizza2\model\order_db.php on line 151
+[29-Apr-2021 21:22:05 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\pizza2\model\order_db.php on line 151
+[29-Apr-2021 21:22:05 Europe/Berlin] =====Starting request: /pizza2/pizza/?room=1
+[29-Apr-2021 21:22:05 Europe/Berlin] =====Starting request: /pizza2/pizza/?room=1
+[29-Apr-2021 22:34:45 Europe/Berlin] =====Starting request: /sandwichshop/
+[29-Apr-2021 22:35:24 Europe/Berlin] =====Starting request: /sandwichshop/
+[29-Apr-2021 22:35:26 Europe/Berlin] =====Starting request: /sandwichshop/
+[29-Apr-2021 22:36:17 Europe/Berlin] =====Starting request: /sandwichshop/
+[29-Apr-2021 22:37:43 Europe/Berlin] =====Starting request: /sandwichshop/
+[29-Apr-2021 22:37:56 Europe/Berlin] =====Starting request: /sandwichshop/
+[29-Apr-2021 22:37:58 Europe/Berlin] =====Starting request: /sandwichshop/
+[29-Apr-2021 22:37:59 Europe/Berlin] =====Starting request: /sandwichshop/
+[29-Apr-2021 22:38:00 Europe/Berlin] =====Starting request: /sandwichshop/
+[29-Apr-2021 22:38:01 Europe/Berlin] =====Starting request: /sandwichshop/
+[29-Apr-2021 22:38:02 Europe/Berlin] =====Starting request: /sandwichshop/
+[29-Apr-2021 22:38:17 Europe/Berlin] =====Starting request: /sandwichshop/
+[29-Apr-2021 22:40:34 Europe/Berlin] =====Starting request: /sandwichshop/
+[29-Apr-2021 22:41:30 Europe/Berlin] =====Starting request: /sandwichshop/
+[29-Apr-2021 22:41:32 Europe/Berlin] =====Starting request: /sandwichshop/
+[29-Apr-2021 22:42:32 Europe/Berlin] =====Starting request: /sandwichshop/
+[29-Apr-2021 22:42:34 Europe/Berlin] =====Starting request: /sandwichshop/
+[29-Apr-2021 22:42:38 Europe/Berlin] =====Starting request: /sandwichshop/
+[29-Apr-2021 22:45:42 Europe/Berlin] =====Starting request: /sandwichshop/
+[29-Apr-2021 22:47:20 Europe/Berlin] =====Starting request: /sandwichshop/
+[29-Apr-2021 22:55:25 Europe/Berlin] =====Starting request: /sandwichshop/
+[29-Apr-2021 22:55:26 Europe/Berlin] =====Starting request: /sandwichshop/
+[29-Apr-2021 22:59:34 Europe/Berlin] =====Starting request: /sandwichshop/
+[29-Apr-2021 22:59:35 Europe/Berlin] =====Starting request: /sandwichshop/
+[29-Apr-2021 22:59:36 Europe/Berlin] =====Starting request: /sandwichshop/
+[29-Apr-2021 22:59:39 Europe/Berlin] =====Starting request: /sandwichshop/
+[30-Apr-2021 18:09:45 Europe/Berlin] =====Starting request: /pizza2/
+[30-Apr-2021 18:10:25 Europe/Berlin] =====Starting request: /pizza2/admin/
+[30-Apr-2021 18:10:25 Europe/Berlin] =====Starting request: /pizza2/admin/
+[30-Apr-2021 18:10:27 Europe/Berlin] =====Starting request: /pizza2/admin/topping/
+[30-Apr-2021 18:10:27 Europe/Berlin] =====Starting request: /pizza2/admin/topping/
+[30-Apr-2021 18:10:29 Europe/Berlin] =====Starting request: /pizza2/admin/topping/?action=show_add_form
+[30-Apr-2021 18:10:29 Europe/Berlin] =====Starting request: /pizza2/admin/topping/?action=show_add_form
+[30-Apr-2021 18:10:34 Europe/Berlin] =====Starting request: /pizza2/admin/topping/index.php
+[30-Apr-2021 18:10:34 Europe/Berlin] =====Starting request: /pizza2/admin/topping/
+[30-Apr-2021 18:10:34 Europe/Berlin] =====Starting request: /pizza2/admin/topping/
+[30-Apr-2021 18:10:45 Europe/Berlin] =====Starting request: /pizza2/admin/
+[30-Apr-2021 18:10:45 Europe/Berlin] =====Starting request: /pizza2/admin/
+[30-Apr-2021 18:10:46 Europe/Berlin] =====Starting request: /pizza2/admin/size/
+[30-Apr-2021 18:10:46 Europe/Berlin] =====Starting request: /pizza2/admin/size/
+[30-Apr-2021 18:10:48 Europe/Berlin] =====Starting request: /pizza2/admin/size/?action=show_add_form
+[30-Apr-2021 18:10:48 Europe/Berlin] =====Starting request: /pizza2/admin/size/?action=show_add_form
+[30-Apr-2021 18:10:50 Europe/Berlin] =====Starting request: /pizza2/admin/size/index.php
+[30-Apr-2021 18:10:50 Europe/Berlin] =====Starting request: /pizza2/admin/size/
+[30-Apr-2021 18:10:50 Europe/Berlin] =====Starting request: /pizza2/admin/size/
+[30-Apr-2021 18:17:59 Europe/Berlin] =====Starting request: /pizza2/admin/size/?action=show_add_form
+[30-Apr-2021 18:17:59 Europe/Berlin] =====Starting request: /pizza2/admin/size/?action=show_add_form
+[30-Apr-2021 18:18:03 Europe/Berlin] =====Starting request: /pizza2/admin/size/index.php
+[30-Apr-2021 18:18:03 Europe/Berlin] =====Starting request: /pizza2/admin/size/
+[30-Apr-2021 18:18:03 Europe/Berlin] =====Starting request: /pizza2/admin/size/
+[30-Apr-2021 18:18:22 Europe/Berlin] =====Starting request: /pizza2/admin/size/
+[30-Apr-2021 18:18:22 Europe/Berlin] =====Starting request: /pizza2/admin/size/
+[30-Apr-2021 18:18:23 Europe/Berlin] =====Starting request: /pizza2/admin/size/?action=show_add_form
+[30-Apr-2021 18:18:23 Europe/Berlin] =====Starting request: /pizza2/admin/size/?action=show_add_form
+[30-Apr-2021 18:18:26 Europe/Berlin] =====Starting request: /pizza2/admin/size/index.php
+[30-Apr-2021 18:18:26 Europe/Berlin] =====Starting request: /pizza2/admin/size/
+[30-Apr-2021 18:18:26 Europe/Berlin] =====Starting request: /pizza2/admin/size/
+[30-Apr-2021 18:18:47 Europe/Berlin] =====Starting request: /pizza2/admin/size/?action=show_add_form
+[30-Apr-2021 18:18:47 Europe/Berlin] =====Starting request: /pizza2/admin/size/?action=show_add_form
+[30-Apr-2021 18:18:50 Europe/Berlin] =====Starting request: /pizza2/admin/size/index.php
+[30-Apr-2021 18:18:50 Europe/Berlin] =====Starting request: /pizza2/admin/size/
+[30-Apr-2021 18:18:50 Europe/Berlin] =====Starting request: /pizza2/admin/size/
+[30-Apr-2021 18:19:40 Europe/Berlin] =====Starting request: /pizza2/admin/size/
+[30-Apr-2021 18:19:40 Europe/Berlin] =====Starting request: /pizza2/admin/size/
+[30-Apr-2021 18:22:27 Europe/Berlin] =====Starting request: /pizza2/admin/
+[30-Apr-2021 18:22:27 Europe/Berlin] =====Starting request: /pizza2/admin/
+[30-Apr-2021 18:22:28 Europe/Berlin] =====Starting request: /pizza2/admin/
+[30-Apr-2021 18:22:28 Europe/Berlin] =====Starting request: /pizza2/admin/
+[30-Apr-2021 18:22:29 Europe/Berlin] =====Starting request: /pizza2/admin/size/
+[30-Apr-2021 18:22:29 Europe/Berlin] =====Starting request: /pizza2/admin/size/
+[30-Apr-2021 18:22:31 Europe/Berlin] =====Starting request: /pizza2/admin/size/?action=show_add_form
+[30-Apr-2021 18:22:31 Europe/Berlin] =====Starting request: /pizza2/admin/size/?action=show_add_form
+[30-Apr-2021 18:22:34 Europe/Berlin] =====Starting request: /pizza2/admin/size/index.php
+[30-Apr-2021 18:22:34 Europe/Berlin] =====Starting request: /pizza2/admin/size/
+[30-Apr-2021 18:22:34 Europe/Berlin] =====Starting request: /pizza2/admin/size/
+[30-Apr-2021 18:23:21 Europe/Berlin] =====Starting request: /pizza2/admin/size/
+[30-Apr-2021 18:23:44 Europe/Berlin] =====Starting request: /pizza2/admin/size/
+[30-Apr-2021 18:24:05 Europe/Berlin] =====Starting request: /pizza2/admin/size/
+[30-Apr-2021 18:24:05 Europe/Berlin] =====Starting request: /pizza2/admin/size/
+[30-Apr-2021 18:24:06 Europe/Berlin] =====Starting request: /pizza2/admin/size/?action=show_add_form
+[30-Apr-2021 18:24:06 Europe/Berlin] =====Starting request: /pizza2/admin/size/?action=show_add_form
+[30-Apr-2021 18:24:10 Europe/Berlin] =====Starting request: /pizza2/admin/size/index.php
+[30-Apr-2021 18:24:36 Europe/Berlin] =====Starting request: /pizza2/admin/size/index.php
+[30-Apr-2021 18:24:36 Europe/Berlin] =====Starting request: /pizza2/admin/size/
+[30-Apr-2021 18:24:36 Europe/Berlin] =====Starting request: /pizza2/admin/size/
+[30-Apr-2021 18:24:37 Europe/Berlin] =====Starting request: /pizza2/admin/size/?action=show_add_form
+[30-Apr-2021 18:24:37 Europe/Berlin] =====Starting request: /pizza2/admin/size/?action=show_add_form
+[30-Apr-2021 18:24:41 Europe/Berlin] =====Starting request: /pizza2/admin/size/index.php
+[30-Apr-2021 18:24:41 Europe/Berlin] =====Starting request: /pizza2/admin/size/
+[30-Apr-2021 18:24:41 Europe/Berlin] =====Starting request: /pizza2/admin/size/
+[30-Apr-2021 18:26:08 Europe/Berlin] =====Starting request: /pizza2/admin/
+[30-Apr-2021 18:26:08 Europe/Berlin] =====Starting request: /pizza2/admin/
+[30-Apr-2021 18:26:18 Europe/Berlin] =====Starting request: /pizza2/admin/topping/
+[30-Apr-2021 18:26:18 Europe/Berlin] =====Starting request: /pizza2/admin/topping/
+[30-Apr-2021 18:26:19 Europe/Berlin] =====Starting request: /pizza2/admin/topping/?action=show_add_form
+[30-Apr-2021 18:26:19 Europe/Berlin] =====Starting request: /pizza2/admin/topping/?action=show_add_form
+[30-Apr-2021 18:26:25 Europe/Berlin] =====Starting request: /pizza2/admin/topping/index.php
+[30-Apr-2021 18:26:25 Europe/Berlin] =====Starting request: /pizza2/admin/topping/
+[30-Apr-2021 18:26:25 Europe/Berlin] =====Starting request: /pizza2/admin/topping/
+[30-Apr-2021 22:01:55 Europe/Berlin] =====Starting request: /pizza2/
+[30-Apr-2021 22:01:59 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[30-Apr-2021 22:01:59 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[30-Apr-2021 22:02:04 Europe/Berlin] =====Starting request: /pizza2/pizza/?action=order_pizza&room=1
+[30-Apr-2021 22:02:04 Europe/Berlin] =====Starting request: /pizza2/pizza/?action=order_pizza&room=1
+[30-Apr-2021 22:02:09 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php?action=add_order&pizza_size=4&pizza_topping%5B%5D=1&room=1&n=3
+[30-Apr-2021 22:02:09 Europe/Berlin] =====Starting request: /pizza2/pizza/?room=1
+[30-Apr-2021 22:02:09 Europe/Berlin] =====Starting request: /pizza2/pizza/?room=1
+[30-Apr-2021 22:02:27 Europe/Berlin] =====Starting request: /pizza2/pizza/?action=order_pizza&room=1
+[30-Apr-2021 22:02:27 Europe/Berlin] =====Starting request: /pizza2/pizza/?action=order_pizza&room=1
+[30-Apr-2021 22:02:35 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php?action=add_order&pizza_size=8&pizza_topping%5B%5D=1&room=1&n=4
+[30-Apr-2021 22:02:35 Europe/Berlin] =====Starting request: /pizza2/pizza/?room=1
+[30-Apr-2021 22:02:35 Europe/Berlin] =====Starting request: /pizza2/pizza/?room=1
+[30-Apr-2021 22:03:46 Europe/Berlin] =====Starting request: /pizza2/pizza/?room=1
+[30-Apr-2021 22:03:46 Europe/Berlin] =====Starting request: /pizza2/pizza/?room=1
+[30-Apr-2021 22:03:49 Europe/Berlin] =====Starting request: /pizza2/pizza/?action=order_pizza&room=1
+[30-Apr-2021 22:03:49 Europe/Berlin] =====Starting request: /pizza2/pizza/?action=order_pizza&room=1
+[30-Apr-2021 22:03:54 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php?action=add_order&pizza_size=6&pizza_topping%5B%5D=1&room=1&n=4
+[30-Apr-2021 22:03:54 Europe/Berlin] =====Starting request: /pizza2/pizza/?room=1
+[30-Apr-2021 22:03:54 Europe/Berlin] =====Starting request: /pizza2/pizza/?room=1
+[30-Apr-2021 22:06:06 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php
+[30-Apr-2021 22:06:06 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php
+[30-Apr-2021 22:06:08 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php?action=order_pizza&room=2
+[30-Apr-2021 22:06:08 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php?action=order_pizza&room=2
+[30-Apr-2021 22:06:19 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php?action=add_order&pizza_size=8&pizza_topping%5B%5D=1&room=2&n=3
+[30-Apr-2021 22:06:19 Europe/Berlin] =====Starting request: /pizza2/pizza/?room=2
+[30-Apr-2021 22:06:19 Europe/Berlin] =====Starting request: /pizza2/pizza/?room=2
+[30-Apr-2021 23:16:27 Europe/Berlin] =====Starting request: /pizza2/pizza/?room=2
+[30-Apr-2021 23:16:27 Europe/Berlin] =====Starting request: /pizza2/pizza/?room=2
+[30-Apr-2021 23:16:30 Europe/Berlin] =====Starting request: /pizza2/pizza/?action=order_pizza&room=2
+[30-Apr-2021 23:16:31 Europe/Berlin] =====Starting request: /pizza2/pizza/?action=order_pizza&room=2
+[30-Apr-2021 23:16:36 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php?action=add_order&pizza_size=1&pizza_topping%5B%5D=1&room=2&n=4
+[30-Apr-2021 23:16:36 Europe/Berlin] PHP Notice:  Undefined variable: topping_ids in C:\xampp\htdocs\pizza2\pizza\index.php on line 84
+[30-Apr-2021 23:16:36 Europe/Berlin] PHP Notice:  Undefined variable: topping_ids in C:\xampp\htdocs\pizza2\pizza\index.php on line 85
+[30-Apr-2021 23:16:36 Europe/Berlin] PHP Notice:  Undefined variable: topping_ids in C:\xampp\htdocs\pizza2\pizza\index.php on line 91
+[30-Apr-2021 23:16:36 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\pizza2\model\order_db.php on line 151
+[30-Apr-2021 23:16:36 Europe/Berlin] PHP Notice:  Undefined variable: topping_ids in C:\xampp\htdocs\pizza2\pizza\index.php on line 91
+[30-Apr-2021 23:16:36 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\pizza2\model\order_db.php on line 151
+[30-Apr-2021 23:16:36 Europe/Berlin] PHP Notice:  Undefined variable: topping_ids in C:\xampp\htdocs\pizza2\pizza\index.php on line 91
+[30-Apr-2021 23:16:36 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\pizza2\model\order_db.php on line 151
+[30-Apr-2021 23:16:36 Europe/Berlin] PHP Notice:  Undefined variable: topping_ids in C:\xampp\htdocs\pizza2\pizza\index.php on line 91
+[30-Apr-2021 23:16:36 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\pizza2\model\order_db.php on line 151
+[30-Apr-2021 23:16:36 Europe/Berlin] =====Starting request: /pizza2/pizza/?room=2
+[30-Apr-2021 23:16:36 Europe/Berlin] =====Starting request: /pizza2/pizza/?room=2
+[30-Apr-2021 23:17:08 Europe/Berlin] =====Starting request: /pizza2/pizza/?action=order_pizza&room=2
+[30-Apr-2021 23:17:08 Europe/Berlin] =====Starting request: /pizza2/pizza/?action=order_pizza&room=2
+[30-Apr-2021 23:17:19 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php?action=add_order&pizza_size=4&pizza_topping%5B%5D=1&pizza_topping%5B%5D=2&room=3&n=5
+[30-Apr-2021 23:17:19 Europe/Berlin] PHP Notice:  Undefined variable: topping_ids in C:\xampp\htdocs\pizza2\pizza\index.php on line 84
+[30-Apr-2021 23:17:19 Europe/Berlin] PHP Notice:  Undefined variable: topping_ids in C:\xampp\htdocs\pizza2\pizza\index.php on line 85
+[30-Apr-2021 23:17:19 Europe/Berlin] PHP Notice:  Undefined variable: topping_ids in C:\xampp\htdocs\pizza2\pizza\index.php on line 91
+[30-Apr-2021 23:17:19 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\pizza2\model\order_db.php on line 151
+[30-Apr-2021 23:17:19 Europe/Berlin] PHP Notice:  Undefined variable: topping_ids in C:\xampp\htdocs\pizza2\pizza\index.php on line 91
+[30-Apr-2021 23:17:19 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\pizza2\model\order_db.php on line 151
+[30-Apr-2021 23:17:19 Europe/Berlin] PHP Notice:  Undefined variable: topping_ids in C:\xampp\htdocs\pizza2\pizza\index.php on line 91
+[30-Apr-2021 23:17:19 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\pizza2\model\order_db.php on line 151
+[30-Apr-2021 23:17:19 Europe/Berlin] PHP Notice:  Undefined variable: topping_ids in C:\xampp\htdocs\pizza2\pizza\index.php on line 91
+[30-Apr-2021 23:17:19 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\pizza2\model\order_db.php on line 151
+[30-Apr-2021 23:17:19 Europe/Berlin] PHP Notice:  Undefined variable: topping_ids in C:\xampp\htdocs\pizza2\pizza\index.php on line 91
+[30-Apr-2021 23:17:19 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\pizza2\model\order_db.php on line 151
+[30-Apr-2021 23:17:19 Europe/Berlin] =====Starting request: /pizza2/pizza/?room=3
+[30-Apr-2021 23:17:19 Europe/Berlin] =====Starting request: /pizza2/pizza/?room=3
+[30-Apr-2021 23:17:33 Europe/Berlin] =====Starting request: /pizza2/pizza/?action=order_pizza&room=3
+[30-Apr-2021 23:17:33 Europe/Berlin] =====Starting request: /pizza2/pizza/?action=order_pizza&room=3
+[30-Apr-2021 23:17:38 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php?action=add_order&pizza_size=8&pizza_topping%5B%5D=2&room=3&n=2
+[30-Apr-2021 23:17:38 Europe/Berlin] PHP Notice:  Undefined variable: topping_ids in C:\xampp\htdocs\pizza2\pizza\index.php on line 84
+[30-Apr-2021 23:17:38 Europe/Berlin] PHP Notice:  Undefined variable: topping_ids in C:\xampp\htdocs\pizza2\pizza\index.php on line 85
+[30-Apr-2021 23:17:38 Europe/Berlin] PHP Notice:  Undefined variable: topping_ids in C:\xampp\htdocs\pizza2\pizza\index.php on line 91
+[30-Apr-2021 23:17:38 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\pizza2\model\order_db.php on line 151
+[30-Apr-2021 23:17:38 Europe/Berlin] PHP Notice:  Undefined variable: topping_ids in C:\xampp\htdocs\pizza2\pizza\index.php on line 91
+[30-Apr-2021 23:17:38 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\pizza2\model\order_db.php on line 151
+[30-Apr-2021 23:17:38 Europe/Berlin] =====Starting request: /pizza2/pizza/?room=3
+[30-Apr-2021 23:17:38 Europe/Berlin] =====Starting request: /pizza2/pizza/?room=3
+[30-Apr-2021 23:18:06 Europe/Berlin] =====Starting request: /pizza2/pizza/?action=order_pizza&room=3
+[30-Apr-2021 23:18:06 Europe/Berlin] =====Starting request: /pizza2/pizza/?action=order_pizza&room=3
+[30-Apr-2021 23:18:18 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php?action=add_order&pizza_size=1&pizza_topping%5B%5D=1&room=10&n=7
+[30-Apr-2021 23:18:18 Europe/Berlin] PHP Notice:  Undefined variable: topping_ids in C:\xampp\htdocs\pizza2\pizza\index.php on line 84
+[30-Apr-2021 23:18:18 Europe/Berlin] PHP Notice:  Undefined variable: topping_ids in C:\xampp\htdocs\pizza2\pizza\index.php on line 85
+[30-Apr-2021 23:18:18 Europe/Berlin] PHP Notice:  Undefined variable: topping_ids in C:\xampp\htdocs\pizza2\pizza\index.php on line 91
+[30-Apr-2021 23:18:18 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\pizza2\model\order_db.php on line 151
+[30-Apr-2021 23:18:18 Europe/Berlin] PHP Notice:  Undefined variable: topping_ids in C:\xampp\htdocs\pizza2\pizza\index.php on line 91
+[30-Apr-2021 23:18:18 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\pizza2\model\order_db.php on line 151
+[30-Apr-2021 23:18:18 Europe/Berlin] PHP Notice:  Undefined variable: topping_ids in C:\xampp\htdocs\pizza2\pizza\index.php on line 91
+[30-Apr-2021 23:18:18 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\pizza2\model\order_db.php on line 151
+[30-Apr-2021 23:18:18 Europe/Berlin] PHP Notice:  Undefined variable: topping_ids in C:\xampp\htdocs\pizza2\pizza\index.php on line 91
+[30-Apr-2021 23:18:18 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\pizza2\model\order_db.php on line 151
+[30-Apr-2021 23:18:18 Europe/Berlin] PHP Notice:  Undefined variable: topping_ids in C:\xampp\htdocs\pizza2\pizza\index.php on line 91
+[30-Apr-2021 23:18:18 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\pizza2\model\order_db.php on line 151
+[30-Apr-2021 23:18:18 Europe/Berlin] PHP Notice:  Undefined variable: topping_ids in C:\xampp\htdocs\pizza2\pizza\index.php on line 91
+[30-Apr-2021 23:18:18 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\pizza2\model\order_db.php on line 151
+[30-Apr-2021 23:18:18 Europe/Berlin] PHP Notice:  Undefined variable: topping_ids in C:\xampp\htdocs\pizza2\pizza\index.php on line 91
+[30-Apr-2021 23:18:18 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\pizza2\model\order_db.php on line 151
+[30-Apr-2021 23:18:18 Europe/Berlin] =====Starting request: /pizza2/pizza/?room=10
+[30-Apr-2021 23:18:18 Europe/Berlin] =====Starting request: /pizza2/pizza/?room=10
+[30-Apr-2021 23:19:12 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[30-Apr-2021 23:19:12 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[30-Apr-2021 23:19:14 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[30-Apr-2021 23:19:14 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[30-Apr-2021 23:19:21 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php
+[30-Apr-2021 23:19:21 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php
+[30-Apr-2021 23:19:23 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php?action=order_pizza&room=9
+[30-Apr-2021 23:19:23 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php?action=order_pizza&room=9
+[30-Apr-2021 23:19:29 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php?action=add_order&pizza_size=7&pizza_topping%5B%5D=1&pizza_topping%5B%5D=2&room=9&n=2
+[30-Apr-2021 23:19:29 Europe/Berlin] PHP Notice:  Undefined variable: topping_ids in C:\xampp\htdocs\pizza2\pizza\index.php on line 84
+[30-Apr-2021 23:19:29 Europe/Berlin] PHP Notice:  Undefined variable: topping_ids in C:\xampp\htdocs\pizza2\pizza\index.php on line 85
+[30-Apr-2021 23:19:29 Europe/Berlin] PHP Notice:  Undefined variable: topping_ids in C:\xampp\htdocs\pizza2\pizza\index.php on line 91
+[30-Apr-2021 23:19:29 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\pizza2\model\order_db.php on line 151
+[30-Apr-2021 23:19:29 Europe/Berlin] PHP Notice:  Undefined variable: topping_ids in C:\xampp\htdocs\pizza2\pizza\index.php on line 91
+[30-Apr-2021 23:19:29 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\pizza2\model\order_db.php on line 151
+[30-Apr-2021 23:19:29 Europe/Berlin] =====Starting request: /pizza2/pizza/?room=9
+[30-Apr-2021 23:19:29 Europe/Berlin] =====Starting request: /pizza2/pizza/?room=9
+[30-Apr-2021 23:33:06 Europe/Berlin] =====Starting request: /pizza2/pizza/?room=9
+[30-Apr-2021 23:33:06 Europe/Berlin] =====Starting request: /pizza2/pizza/?room=9
+[30-Apr-2021 23:33:08 Europe/Berlin] =====Starting request: /pizza2/pizza/?action=order_pizza&room=9
+[30-Apr-2021 23:33:08 Europe/Berlin] =====Starting request: /pizza2/pizza/?action=order_pizza&room=9
+[30-Apr-2021 23:33:17 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php?action=add_order&pizza_size=1&pizza_topping%5B%5D=1&room=8&n=2
+[30-Apr-2021 23:33:17 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\pizza2\model\order_db.php on line 151
+[30-Apr-2021 23:33:17 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\pizza2\model\order_db.php on line 151
+[30-Apr-2021 23:33:17 Europe/Berlin] =====Starting request: /pizza2/pizza/?room=8
+[30-Apr-2021 23:33:17 Europe/Berlin] =====Starting request: /pizza2/pizza/?room=8
+[30-Apr-2021 23:33:40 Europe/Berlin] =====Starting request: /pizza2/pizza/?action=order_pizza&room=9
+[30-Apr-2021 23:33:40 Europe/Berlin] =====Starting request: /pizza2/pizza/?action=order_pizza&room=9
+[30-Apr-2021 23:33:42 Europe/Berlin] =====Starting request: /pizza2/pizza/?action=order_pizza&room=9
+[30-Apr-2021 23:33:42 Europe/Berlin] =====Starting request: /pizza2/pizza/?action=order_pizza&room=9
+[30-Apr-2021 23:33:48 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php?action=add_order&pizza_size=1&pizza_topping%5B%5D=1&room=9&n=3
+[30-Apr-2021 23:33:48 Europe/Berlin] PHP Notice:  Undefined variable: toypping_ids in C:\xampp\htdocs\pizza2\pizza\index.php on line 92
+[30-Apr-2021 23:33:48 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\pizza2\model\order_db.php on line 151
+[30-Apr-2021 23:33:48 Europe/Berlin] PHP Notice:  Undefined variable: toypping_ids in C:\xampp\htdocs\pizza2\pizza\index.php on line 92
+[30-Apr-2021 23:33:48 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\pizza2\model\order_db.php on line 151
+[30-Apr-2021 23:33:48 Europe/Berlin] PHP Notice:  Undefined variable: toypping_ids in C:\xampp\htdocs\pizza2\pizza\index.php on line 92
+[30-Apr-2021 23:33:48 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\pizza2\model\order_db.php on line 151
+[30-Apr-2021 23:33:48 Europe/Berlin] =====Starting request: /pizza2/pizza/?room=9
+[30-Apr-2021 23:33:48 Europe/Berlin] =====Starting request: /pizza2/pizza/?room=9
+[30-Apr-2021 23:34:05 Europe/Berlin] =====Starting request: /pizza2/pizza/?action=order_pizza&room=9
+[30-Apr-2021 23:34:05 Europe/Berlin] =====Starting request: /pizza2/pizza/?action=order_pizza&room=9
+[30-Apr-2021 23:34:07 Europe/Berlin] =====Starting request: /pizza2/admin/
+[30-Apr-2021 23:34:07 Europe/Berlin] =====Starting request: /pizza2/admin/
+[30-Apr-2021 23:34:09 Europe/Berlin] =====Starting request: /pizza2/admin/order/
+[30-Apr-2021 23:34:09 Europe/Berlin] =====Starting request: /pizza2/admin/order/
+[30-Apr-2021 23:34:11 Europe/Berlin] =====Starting request: /pizza2/admin/order/index.php
+[30-Apr-2021 23:34:11 Europe/Berlin] =====Starting request: /pizza2/admin/order/
+[30-Apr-2021 23:34:11 Europe/Berlin] =====Starting request: /pizza2/admin/order/
+[30-Apr-2021 23:34:13 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[30-Apr-2021 23:34:13 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[30-Apr-2021 23:34:16 Europe/Berlin] =====Starting request: /pizza2/pizza/?action=order_pizza&room=1
+[30-Apr-2021 23:34:16 Europe/Berlin] =====Starting request: /pizza2/pizza/?action=order_pizza&room=1
+[30-Apr-2021 23:34:21 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php?action=add_order&pizza_size=1&pizza_topping%5B%5D=1&room=1&n=2
+[30-Apr-2021 23:34:21 Europe/Berlin] PHP Notice:  Undefined variable: toypping_ids in C:\xampp\htdocs\pizza2\pizza\index.php on line 92
+[30-Apr-2021 23:34:21 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\pizza2\model\order_db.php on line 151
+[30-Apr-2021 23:34:21 Europe/Berlin] PHP Notice:  Undefined variable: toypping_ids in C:\xampp\htdocs\pizza2\pizza\index.php on line 92
+[30-Apr-2021 23:34:21 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\pizza2\model\order_db.php on line 151
+[30-Apr-2021 23:34:21 Europe/Berlin] =====Starting request: /pizza2/pizza/?room=1
+[30-Apr-2021 23:34:21 Europe/Berlin] =====Starting request: /pizza2/pizza/?room=1
+[30-Apr-2021 23:34:37 Europe/Berlin] =====Starting request: /pizza2/pizza/?action=order_pizza&room=1
+[30-Apr-2021 23:34:37 Europe/Berlin] =====Starting request: /pizza2/pizza/?action=order_pizza&room=1
+[30-Apr-2021 23:34:44 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php?action=add_order&pizza_size=1&pizza_topping%5B%5D=1&room=3&n=4
+[30-Apr-2021 23:34:44 Europe/Berlin] =====Starting request: /pizza2/pizza/?room=3
+[30-Apr-2021 23:34:44 Europe/Berlin] =====Starting request: /pizza2/pizza/?room=3
+[30-Apr-2021 23:57:41 Europe/Berlin] =====Starting request: /pizza2/pizza/?action=order_pizza&room=3
+[30-Apr-2021 23:57:41 Europe/Berlin] =====Starting request: /pizza2/pizza/?action=order_pizza&room=3
+[30-Apr-2021 23:57:49 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php?action=add_order&pizza_size=1&pizza_topping%5B%5D=1&room=3&n=2
+[30-Apr-2021 23:57:49 Europe/Berlin] PHP Notice:  Undefined variable: topping_ids in C:\xampp\htdocs\pizza2\pizza\index.php on line 86
+[30-Apr-2021 23:57:49 Europe/Berlin] PHP Notice:  Undefined variable: toypping_ids in C:\xampp\htdocs\pizza2\pizza\index.php on line 92
+[30-Apr-2021 23:57:49 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\pizza2\model\order_db.php on line 151
+[30-Apr-2021 23:57:49 Europe/Berlin] PHP Notice:  Undefined variable: toypping_ids in C:\xampp\htdocs\pizza2\pizza\index.php on line 92
+[30-Apr-2021 23:57:49 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\pizza2\model\order_db.php on line 151
+[30-Apr-2021 23:57:49 Europe/Berlin] =====Starting request: /pizza2/pizza/?room=3
+[30-Apr-2021 23:57:49 Europe/Berlin] =====Starting request: /pizza2/pizza/?room=3
+[30-Apr-2021 23:58:03 Europe/Berlin] =====Starting request: /pizza2/pizza/?action=order_pizza&room=3
+[30-Apr-2021 23:58:03 Europe/Berlin] =====Starting request: /pizza2/pizza/?action=order_pizza&room=3
+[30-Apr-2021 23:58:07 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php?action=add_order&pizza_size=1&pizza_topping%5B%5D=1&room=3&n=3
+[30-Apr-2021 23:58:07 Europe/Berlin] PHP Notice:  Undefined variable: topping_ids in C:\xampp\htdocs\pizza2\pizza\index.php on line 86
+[30-Apr-2021 23:58:07 Europe/Berlin] PHP Notice:  Undefined variable: topping_ids in C:\xampp\htdocs\pizza2\pizza\index.php on line 92
+[30-Apr-2021 23:58:07 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\pizza2\model\order_db.php on line 151
+[30-Apr-2021 23:58:07 Europe/Berlin] PHP Notice:  Undefined variable: topping_ids in C:\xampp\htdocs\pizza2\pizza\index.php on line 92
+[30-Apr-2021 23:58:07 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\pizza2\model\order_db.php on line 151
+[30-Apr-2021 23:58:07 Europe/Berlin] PHP Notice:  Undefined variable: topping_ids in C:\xampp\htdocs\pizza2\pizza\index.php on line 92
+[30-Apr-2021 23:58:07 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\pizza2\model\order_db.php on line 151
+[30-Apr-2021 23:58:07 Europe/Berlin] =====Starting request: /pizza2/pizza/?room=3
+[30-Apr-2021 23:58:07 Europe/Berlin] =====Starting request: /pizza2/pizza/?room=3
+[01-May-2021 00:03:57 Europe/Berlin] =====Starting request: /pizza2/pizza/?room=3
+[01-May-2021 00:03:57 Europe/Berlin] =====Starting request: /pizza2/pizza/?room=3
+[01-May-2021 00:03:59 Europe/Berlin] =====Starting request: /pizza2/pizza/?action=order_pizza&room=3
+[01-May-2021 00:03:59 Europe/Berlin] =====Starting request: /pizza2/pizza/?action=order_pizza&room=3
+[01-May-2021 00:04:04 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php?action=add_order&pizza_size=1&pizza_topping%5B%5D=1&room=3&n=1
+[01-May-2021 00:04:04 Europe/Berlin] PHP Notice:  Undefined variable: topping_ids in C:\xampp\htdocs\pizza2\pizza\index.php on line 86
+[01-May-2021 00:04:04 Europe/Berlin] =====Starting request: /pizza2/pizza/?room=3
+[01-May-2021 00:04:04 Europe/Berlin] =====Starting request: /pizza2/pizza/?room=3
+[02-May-2021 20:59:00 Europe/Berlin] =====Starting request: /pizza2/
+[16-Jun-2021 09:05:28 Europe/Berlin] =====Starting request: /pizza2/
+[16-Jun-2021 09:05:32 Europe/Berlin] =====Starting request: /pizza2/admin/
+[16-Jun-2021 09:05:32 Europe/Berlin] =====Starting request: /pizza2/admin/
+[16-Jun-2021 09:05:33 Europe/Berlin] =====Starting request: /pizza2/admin/topping/
+[16-Jun-2021 09:05:33 Europe/Berlin] =====Starting request: /pizza2/admin/topping/
+[16-Jun-2021 09:05:34 Europe/Berlin] =====Starting request: /pizza2/admin/topping/?action=show_add_form
+[16-Jun-2021 09:05:34 Europe/Berlin] =====Starting request: /pizza2/admin/topping/?action=show_add_form
+[16-Jun-2021 09:05:36 Europe/Berlin] =====Starting request: /pizza2/admin/topping/index.php
+[16-Jun-2021 09:05:36 Europe/Berlin] =====Starting request: /pizza2/admin/topping/
+[16-Jun-2021 09:05:36 Europe/Berlin] =====Starting request: /pizza2/admin/topping/
+[16-Jun-2021 09:05:37 Europe/Berlin] =====Starting request: /pizza2/admin/topping/?action=show_add_form
+[16-Jun-2021 09:05:37 Europe/Berlin] =====Starting request: /pizza2/admin/topping/?action=show_add_form
+[16-Jun-2021 09:05:38 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[16-Jun-2021 09:05:39 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[16-Jun-2021 09:06:35 Europe/Berlin] =====Starting request: /pizza2/
+[16-Jun-2021 09:07:15 Europe/Berlin] =====Starting request: /pizza2/
+[16-Jun-2021 09:07:17 Europe/Berlin] =====Starting request: /pizza2/admin/
+[16-Jun-2021 09:07:17 Europe/Berlin] =====Starting request: /pizza2/admin/
+[16-Jun-2021 09:07:18 Europe/Berlin] =====Starting request: /pizza2/admin/topping/
+[16-Jun-2021 09:07:18 Europe/Berlin] =====Starting request: /pizza2/admin/topping/
+[16-Jun-2021 09:07:22 Europe/Berlin] =====Starting request: /pizza2/admin/
+[16-Jun-2021 09:07:22 Europe/Berlin] =====Starting request: /pizza2/admin/
+[16-Jun-2021 09:07:26 Europe/Berlin] =====Starting request: /pizza2/admin/order/
+[16-Jun-2021 09:07:26 Europe/Berlin] =====Starting request: /pizza2/admin/order/
+[16-Jun-2021 09:07:29 Europe/Berlin] =====Starting request: /pizza2/admin/order/index.php
+[16-Jun-2021 09:07:29 Europe/Berlin] =====Starting request: /pizza2/admin/order/
+[16-Jun-2021 09:07:29 Europe/Berlin] =====Starting request: /pizza2/admin/order/
+[16-Jun-2021 09:07:32 Europe/Berlin] =====Starting request: /pizza2/admin/
+[16-Jun-2021 09:07:32 Europe/Berlin] =====Starting request: /pizza2/admin/
+[16-Jun-2021 09:07:33 Europe/Berlin] =====Starting request: /pizza2/admin/topping/
+[16-Jun-2021 09:07:33 Europe/Berlin] =====Starting request: /pizza2/admin/topping/
+[16-Jun-2021 09:07:34 Europe/Berlin] =====Starting request: /pizza2/admin/topping/?action=show_add_form
+[16-Jun-2021 09:07:34 Europe/Berlin] =====Starting request: /pizza2/admin/topping/?action=show_add_form
+[16-Jun-2021 09:07:44 Europe/Berlin] =====Starting request: /pizza2/admin/topping/index.php
+[16-Jun-2021 09:07:44 Europe/Berlin] =====Starting request: /pizza2/admin/topping/
+[16-Jun-2021 09:07:44 Europe/Berlin] =====Starting request: /pizza2/admin/topping/
+[16-Jun-2021 09:07:46 Europe/Berlin] =====Starting request: /pizza2/admin/
+[16-Jun-2021 09:07:46 Europe/Berlin] =====Starting request: /pizza2/admin/
+[16-Jun-2021 09:07:47 Europe/Berlin] =====Starting request: /pizza2/admin/size/
+[16-Jun-2021 09:07:47 Europe/Berlin] =====Starting request: /pizza2/admin/size/
+[16-Jun-2021 09:07:48 Europe/Berlin] =====Starting request: /pizza2/admin/size/?action=show_add_form
+[16-Jun-2021 09:07:48 Europe/Berlin] =====Starting request: /pizza2/admin/size/?action=show_add_form
+[16-Jun-2021 09:07:53 Europe/Berlin] =====Starting request: /pizza2/admin/size/index.php
+[16-Jun-2021 09:07:53 Europe/Berlin] =====Starting request: /pizza2/admin/size/
+[16-Jun-2021 09:07:53 Europe/Berlin] =====Starting request: /pizza2/admin/size/
+[16-Jun-2021 09:07:54 Europe/Berlin] =====Starting request: /pizza2/admin/
+[16-Jun-2021 09:07:54 Europe/Berlin] =====Starting request: /pizza2/admin/
+[16-Jun-2021 09:07:56 Europe/Berlin] =====Starting request: /pizza2/admin/day/
+[16-Jun-2021 09:07:56 Europe/Berlin] =====Starting request: /pizza2/admin/day/
+[16-Jun-2021 09:07:57 Europe/Berlin] =====Starting request: /pizza2/admin/day/index.php
+[16-Jun-2021 09:07:57 Europe/Berlin] =====Starting request: /pizza2/admin/day/
+[16-Jun-2021 09:07:57 Europe/Berlin] =====Starting request: /pizza2/admin/day/
+[16-Jun-2021 09:07:59 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[16-Jun-2021 09:07:59 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[16-Jun-2021 09:08:01 Europe/Berlin] =====Starting request: /pizza2/pizza/?action=order_pizza&room=1
+[16-Jun-2021 09:08:01 Europe/Berlin] =====Starting request: /pizza2/pizza/?action=order_pizza&room=1
+[16-Jun-2021 09:08:09 Europe/Berlin] =====Starting request: /pizza2/pizza/index.php?action=add_order&pizza_size=1&pizza_topping%5B%5D=1&room=1&n=1
+[16-Jun-2021 09:08:09 Europe/Berlin] =====Starting request: /pizza2/pizza/?room=1
+[16-Jun-2021 09:08:09 Europe/Berlin] =====Starting request: /pizza2/pizza/?room=1
+[16-Jun-2021 09:09:27 Europe/Berlin] =====Starting request: /pizza2/pizza/?room=1
+[16-Jun-2021 09:09:27 Europe/Berlin] =====Starting request: /pizza2/pizza/?room=1
+[16-Jun-2021 09:09:30 Europe/Berlin] =====Starting request: /pizza2/pizza/?action=order_pizza&room=1
+[16-Jun-2021 09:09:30 Europe/Berlin] =====Starting request: /pizza2/pizza/?action=order_pizza&room=1
+[16-Jun-2021 09:09:32 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[16-Jun-2021 09:09:32 Europe/Berlin] =====Starting request: /pizza2/pizza/
+[16-Jun-2021 09:09:34 Europe/Berlin] =====Starting request: /pizza2/pizza/?action=order_pizza&room=1
+[16-Jun-2021 09:09:34 Europe/Berlin] =====Starting request: /pizza2/pizza/?action=order_pizza&room=1
